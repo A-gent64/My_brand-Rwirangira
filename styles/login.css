@@ -1,0 +1,279 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+a{
+  text-decoration: none;
+}
+nav a{
+  list-style: none;
+  font-size: 32px;
+  text-decoration: none;}
+
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 128rem;
+}.login-4G3 {
+  box-sizing: border-box;
+  padding: 0.9rem 1.039rem 4.332rem 1.039rem;
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.login-4G3 .auto-group-jhph-NnX {
+  margin: 0rem 1.961rem 7.735rem 0rem;
+  width: calc(100% - 1.9612rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.login-4G3 .auto-group-jhph-NnX .portfolio-hpo {
+  margin: 0.065rem 25.861rem 0rem 0rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 0.8859375;
+  color: #2d2d2d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-4G3 .auto-group-jhph-NnX .frame-361-QDR {
+  margin-bottom: 0.465rem;
+  display: flex;
+  column-gap: 5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.login-4G3 .auto-group-jhph-NnX .frame-361-QDR .home-wUF {
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 0.9966796637;
+  color: #2d2d2d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-4G3 .auto-group-jhph-NnX .frame-361-QDR .about-Uyy {
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 0.9966796637;
+  color: #2d2d2d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-4G3 .auto-group-jhph-NnX .frame-361-QDR .work-pY3 {
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 0.9966796637;
+  color: #2d2d2d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-4G3 .auto-group-jhph-NnX .frame-361-QDR .blog-Abu {
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 0.9966796637;
+  color: #2d2d2d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-4G3 .auto-group-jhph-NnX .frame-361-QDR .contact-iNX {
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 0.9966796637;
+  color: #2d2d2d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-4G3 .auto-group-jhph-NnX .frame-361-QDR .login-fYf {
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 0.9966796637;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-4G3 .auto-group-jhph-NnX .frame-361-QDR .sign-up-28K {
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 0.9966796637;
+  color: #2d2d2d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-4G3 .loin-MAb {
+  margin-right: 2.5612rem;
+  box-sizing: border-box;
+  padding: 12.894rem 12rem 14.008rem 12rem;
+  width: 64.1rem;
+  height: 68.1678rem;
+  backdrop-filter: blur(1.5rem);
+  background-color: rgba(255, 255, 255, 0.3000000119);
+  border-radius: 4rem;
+  box-shadow: 0 0.4rem 7rem rgba(0, 0, 0, 0.1000000015);
+  flex-shrink: 0;
+}
+.login-4G3 .loin-MAb .fileds-G2f {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.login-4G3 .loin-MAb .fileds-G2f .login-Pd5 {
+  margin: 0rem 0rem 1.676rem 0.1rem;
+  display: flex;
+  font-size: 3.8rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-4G3 .loin-MAb .fileds-G2f .email-JEF {
+  margin-bottom: 0.4562rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #2a1e17;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-4G3 .loin-MAb .fileds-G2f .auto-group-fsl7-2vw {
+  margin: 0rem 0rem 2.416rem 0.1rem;
+  box-sizing: border-box;
+  padding: 1.191rem 2.2rem 1.191rem 2.2rem;
+  width: 40rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #bcbec0;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.login-4G3 .loin-MAb .fileds-G2f .password-ruy {
+  margin-bottom: 0.4562rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #2a1e17;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-4G3 .loin-MAb .fileds-G2f .auto-group-6chh-CU3 {
+  margin: 0rem 0rem 1.209rem 0.1rem;
+  box-sizing: border-box;
+  padding: 1.191rem 2.2rem 1.191rem 2.2rem;
+  width: 40rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #bcbec0;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.login-4G3 .loin-MAb .fileds-G2f .forgot-password-3Dm {
+  margin: 0rem 0rem 3.25rem 0.1rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #2a1e17;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-4G3 .loin-MAb .fileds-G2f .auto-group-kwqm-Lif {
+  margin: 0rem 0rem 7.347rem 0.1rem;
+  width: 40rem;
+  height: 4.0819rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #0d478c;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.login-4G3 .loin-MAb .fileds-G2f .auto-group-qhud-CVy {
+  margin: 0rem 5.3rem 0rem 3.4rem;
+  width: calc(100% - 8.7rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.login-4G3 .loin-MAb .fileds-G2f .auto-group-qhud-CVy .dont-have-an-account-yet-KqV {
+  margin: 0rem 5rem 0.245rem 0rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #2a1e17;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-4G3 .loin-MAb .fileds-G2f .auto-group-qhud-CVy .register-for-free-RNj {
+  margin-right: 0.2rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #2a1e17;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-4G3 .loin-MAb .fileds-G2f .auto-group-qhud-CVy .bi-facebook-9Jj {
+  margin-bottom: 0.85rem;
+  width: 2.4rem;
+  height: 1.9593rem;
+  overflow: hidden;
+  position: relative;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}

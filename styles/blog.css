@@ -1,0 +1,1891 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+a{
+  text-decoration: none;
+}
+nav a{
+  list-style: none;
+  font-size: 32px;
+  text-decoration: none;}
+
+input {
+	border: none;
+}
+body {
+  width: 128rem;
+}.blog-jp7 {
+  box-sizing: border-box;
+  padding: 2.835rem 7.6rem 4rem 4.961rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem rgba(0, 0, 0, 0.200000003);
+  background-color: #ffffff;
+}
+.blog-jp7 .auto-group-hfpf-qcF {
+  margin: 0rem 0.2rem 12.865rem 0rem;
+  width: calc(100% - 0.2rem);
+  height: 3.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-jp7 .auto-group-hfpf-qcF .portfolio-9cw {
+  margin-right: 44.0388rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 0.8859375;
+  color: #2d2d2d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .auto-group-hfpf-qcF .frame-17-Fvs {
+  margin: 0.165rem 0rem 0.235rem 0rem;
+  height: calc(100% - 0.4rem);
+  display: flex;
+  column-gap: 2.6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-jp7 .auto-group-hfpf-qcF .frame-17-Fvs .home-NVh {
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 0.9966796637;
+  color: #2d2d2d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .auto-group-hfpf-qcF .frame-17-Fvs .about-uVd {
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 0.9966796637;
+  color: #2d2d2d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .auto-group-hfpf-qcF .frame-17-Fvs .work-eTD {
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 0.9966796637;
+  color: #2d2d2d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .auto-group-hfpf-qcF .frame-17-Fvs .blog-Bi3 {
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 0.9966796637;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .auto-group-hfpf-qcF .frame-17-Fvs .contact-8dH {
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 0.9966796637;
+  color: #2d2d2d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .auto-group-hfpf-qcF .frame-17-Fvs .skills-g91 {
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 0.9966796637;
+  color: #2d2d2d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .blog-c2f {
+  margin: 0rem 99.961rem 12.7rem 0rem;
+  font-size: 4.4rem;
+  font-weight: 700;
+  line-height: 1.3636363636;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H {
+  margin: 0rem 0rem 9.7rem 1.439rem;
+  width: 114rem;
+  height: 141.4rem;
+  position: relative;
+  overflow: hidden;
+  border: dashed 0.1rem #9747ff;
+  box-sizing: border-box;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1default-EJw {
+  width: 52.3rem;
+  height: 20.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 2rem;
+}
+.blog-jp7 .group-17-j7H .property-1default-EJw .group-10-jmV {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.blog-jp7 .group-17-j7H .property-1default-EJw .group-10-jmV .auto-group-ympr-J3u {
+  margin: 0rem 6.241rem 1.427rem 0rem;
+  width: calc(100% - 6.2407rem);
+  height: 19.4727rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1default-EJw .group-10-jmV .auto-group-ympr-J3u .rectangle-30-DAs {
+  margin: 0.627rem 1.33rem 0rem 0rem;
+  width: 18.8812rem;
+  height: 18.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1default-EJw .group-10-jmV .auto-group-ympr-J3u .auto-group-d7th-KDu {
+  width: 25.8484rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1default-EJw .group-10-jmV .auto-group-ympr-J3u .auto-group-d7th-KDu .designing-dashboards-rDq {
+  width: 14.2rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #21243d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+}
+.blog-jp7 .group-17-j7H .property-1default-EJw .group-10-jmV .auto-group-ympr-J3u .auto-group-d7th-KDu .component-15-xXm {
+  width: 25.5rem;
+  height: 13.1727rem;
+  position: absolute;
+  left: 0.3484rem;
+  top: 6.3rem;
+}
+.blog-jp7 .group-17-j7H .property-1default-EJw .group-10-jmV .auto-group-ympr-J3u .auto-group-d7th-KDu .component-15-xXm .amet-minim-mollit-non-deserunt-ullamco-est-sit-aliqua-dolor-do-amet-sint-velit-officia-consequat-duis-enim-velit-mollit-exercitation-veniam-consequat-sunt-nostrud-amet-gTm {
+  margin-bottom: 0.7727rem;
+  max-width: 23.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #21243d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+}
+.blog-jp7 .group-17-j7H .property-1default-EJw .group-10-jmV .auto-group-ympr-J3u .auto-group-d7th-KDu .component-15-xXm .frame-7-Kmd {
+  box-sizing: border-box;
+  padding-right: 0.3251rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.blog-jp7 .group-17-j7H .property-1default-EJw .group-10-jmV .auto-group-ympr-J3u .auto-group-d7th-KDu .component-15-xXm .frame-7-Kmd .item-125-rmZ {
+  margin: 0rem 0.5rem 0.1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1default-EJw .group-10-jmV .auto-group-ympr-J3u .auto-group-d7th-KDu .component-15-xXm .frame-7-Kmd .icon-park-outline-like-krw {
+  margin: 0rem 3.2rem 0.484rem 0rem;
+  width: 2rem;
+  height: 1.7163rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1default-EJw .group-10-jmV .auto-group-ympr-J3u .auto-group-d7th-KDu .component-15-xXm .frame-7-Kmd .item-175-gEo {
+  margin: 0rem 1rem 0.1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1default-EJw .group-10-jmV .auto-group-ympr-J3u .auto-group-d7th-KDu .component-15-xXm .frame-7-Kmd .frame-364-bMm {
+  margin: 0rem 4.873rem 0.5rem 0rem;
+  width: 1.9265rem;
+  height: 2.0455rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1default-EJw .group-10-jmV .auto-group-ympr-J3u .auto-group-d7th-KDu .component-15-xXm .frame-7-Kmd .item-50-hfh {
+  margin: 0.1rem 0.52rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1default-EJw .group-10-jmV .auto-group-ympr-J3u .auto-group-d7th-KDu .component-15-xXm .frame-7-Kmd .basil-comment-outline-bWB {
+  margin-bottom: 0.345rem;
+  width: 1.7553rem;
+  height: 1.705rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1default-EJw .group-10-jmV .vector-8-iKu {
+  width: 52.3rem;
+  height: 0rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant4-ejM {
+  width: 52.3rem;
+  height: 20.9rem;
+  position: absolute;
+  left: 56.3rem;
+  top: 2rem;
+}
+.blog-jp7 .group-17-j7H .property-1variant4-ejM .group-10-asu {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.blog-jp7 .group-17-j7H .property-1variant4-ejM .group-10-asu .auto-group-hw83-M7y {
+  margin: 0rem 6.241rem 1.427rem 0rem;
+  width: calc(100% - 6.2407rem);
+  height: 19.4727rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant4-ejM .group-10-asu .auto-group-hw83-M7y .rectangle-30-s6K {
+  margin: 0.627rem 1.33rem 0rem 0rem;
+  width: 18.8812rem;
+  height: 18.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant4-ejM .group-10-asu .auto-group-hw83-M7y .auto-group-dtz5-mhV {
+  width: 25.8484rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant4-ejM .group-10-asu .auto-group-hw83-M7y .auto-group-dtz5-mhV .designing-dashboards-XAs {
+  width: 14.2rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #21243d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+}
+.blog-jp7 .group-17-j7H .property-1variant4-ejM .group-10-asu .auto-group-hw83-M7y .auto-group-dtz5-mhV .component-15-39D {
+  width: 25.5rem;
+  height: 13.1727rem;
+  position: absolute;
+  left: 0.3484rem;
+  top: 6.3rem;
+}
+.blog-jp7 .group-17-j7H .property-1variant4-ejM .group-10-asu .auto-group-hw83-M7y .auto-group-dtz5-mhV .component-15-39D .amet-minim-mollit-non-deserunt-ullamco-est-sit-aliqua-dolor-do-amet-sint-velit-officia-consequat-duis-enim-velit-mollit-exercitation-veniam-consequat-sunt-nostrud-amet-yHm {
+  margin-bottom: 0.7727rem;
+  max-width: 23.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #21243d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+}
+.blog-jp7 .group-17-j7H .property-1variant4-ejM .group-10-asu .auto-group-hw83-M7y .auto-group-dtz5-mhV .component-15-39D .frame-7-219 {
+  box-sizing: border-box;
+  padding-right: 0.3251rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.blog-jp7 .group-17-j7H .property-1variant4-ejM .group-10-asu .auto-group-hw83-M7y .auto-group-dtz5-mhV .component-15-39D .frame-7-219 .item-125-A7M {
+  margin: 0rem 0.5rem 0.1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant4-ejM .group-10-asu .auto-group-hw83-M7y .auto-group-dtz5-mhV .component-15-39D .frame-7-219 .icon-park-outline-like-fpo {
+  margin: 0rem 3.2rem 0.484rem 0rem;
+  width: 2rem;
+  height: 1.7163rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant4-ejM .group-10-asu .auto-group-hw83-M7y .auto-group-dtz5-mhV .component-15-39D .frame-7-219 .item-175-zcB {
+  margin: 0rem 1rem 0.1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant4-ejM .group-10-asu .auto-group-hw83-M7y .auto-group-dtz5-mhV .component-15-39D .frame-7-219 .frame-364-Jcs {
+  margin: 0rem 4.873rem 0.5rem 0rem;
+  width: 1.9265rem;
+  height: 2.0455rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant4-ejM .group-10-asu .auto-group-hw83-M7y .auto-group-dtz5-mhV .component-15-39D .frame-7-219 .item-50-RxP {
+  margin: 0.1rem 0.52rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant4-ejM .group-10-asu .auto-group-hw83-M7y .auto-group-dtz5-mhV .component-15-39D .frame-7-219 .basil-comment-outline-Z31 {
+  margin-bottom: 0.345rem;
+  width: 1.7553rem;
+  height: 1.705rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant4-ejM .group-10-asu .vector-8-Ufm {
+  width: 52.3rem;
+  height: 0rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant2-pjd {
+  width: 52.3rem;
+  height: 20.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 25.3rem;
+}
+.blog-jp7 .group-17-j7H .property-1variant2-pjd .group-10-m95 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.blog-jp7 .group-17-j7H .property-1variant2-pjd .group-10-m95 .auto-group-sfhm-KwH {
+  margin: 0rem 6.241rem 1.427rem 0rem;
+  width: calc(100% - 6.2407rem);
+  height: 19.4727rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant2-pjd .group-10-m95 .auto-group-sfhm-KwH .rectangle-30-TXh {
+  margin: 0.627rem 1.33rem 0rem 0rem;
+  width: 18.8812rem;
+  height: 18.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant2-pjd .group-10-m95 .auto-group-sfhm-KwH .auto-group-hrgw-ykw {
+  width: 25.8484rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant2-pjd .group-10-m95 .auto-group-sfhm-KwH .auto-group-hrgw-ykw .designing-dashboards-Kpo {
+  width: 14.2rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #21243d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+}
+.blog-jp7 .group-17-j7H .property-1variant2-pjd .group-10-m95 .auto-group-sfhm-KwH .auto-group-hrgw-ykw .component-15-3F1 {
+  width: 25.5rem;
+  height: 13.1727rem;
+  position: absolute;
+  left: 0.3484rem;
+  top: 6.3rem;
+}
+.blog-jp7 .group-17-j7H .property-1variant2-pjd .group-10-m95 .auto-group-sfhm-KwH .auto-group-hrgw-ykw .component-15-3F1 .amet-minim-mollit-non-deserunt-ullamco-est-sit-aliqua-dolor-do-amet-sint-velit-officia-consequat-duis-enim-velit-mollit-exercitation-veniam-consequat-sunt-nostrud-amet-AqR {
+  margin-bottom: 0.7727rem;
+  max-width: 23.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #21243d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+}
+.blog-jp7 .group-17-j7H .property-1variant2-pjd .group-10-m95 .auto-group-sfhm-KwH .auto-group-hrgw-ykw .component-15-3F1 .frame-7-bvj {
+  box-sizing: border-box;
+  padding-right: 0.3251rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.blog-jp7 .group-17-j7H .property-1variant2-pjd .group-10-m95 .auto-group-sfhm-KwH .auto-group-hrgw-ykw .component-15-3F1 .frame-7-bvj .item-125-wjh {
+  margin: 0rem 0.5rem 0.1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant2-pjd .group-10-m95 .auto-group-sfhm-KwH .auto-group-hrgw-ykw .component-15-3F1 .frame-7-bvj .icon-park-outline-like-rbm {
+  margin: 0rem 3.2rem 0.484rem 0rem;
+  width: 2rem;
+  height: 1.7163rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant2-pjd .group-10-m95 .auto-group-sfhm-KwH .auto-group-hrgw-ykw .component-15-3F1 .frame-7-bvj .item-175-myd {
+  margin: 0rem 1rem 0.1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant2-pjd .group-10-m95 .auto-group-sfhm-KwH .auto-group-hrgw-ykw .component-15-3F1 .frame-7-bvj .frame-364-Vud {
+  margin: 0rem 4.873rem 0.5rem 0rem;
+  width: 1.9265rem;
+  height: 2.0455rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant2-pjd .group-10-m95 .auto-group-sfhm-KwH .auto-group-hrgw-ykw .component-15-3F1 .frame-7-bvj .item-50-dkw {
+  margin: 0.1rem 0.52rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant2-pjd .group-10-m95 .auto-group-sfhm-KwH .auto-group-hrgw-ykw .component-15-3F1 .frame-7-bvj .basil-comment-outline-m6T {
+  margin-bottom: 0.345rem;
+  width: 1.7553rem;
+  height: 1.705rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant2-pjd .group-10-m95 .vector-8-hVu {
+  width: 52.3rem;
+  height: 0rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant5-eg3 {
+  width: 52.3rem;
+  height: 20.9rem;
+  position: absolute;
+  left: 56.3rem;
+  top: 25.3rem;
+}
+.blog-jp7 .group-17-j7H .property-1variant5-eg3 .group-10-BR5 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.blog-jp7 .group-17-j7H .property-1variant5-eg3 .group-10-BR5 .auto-group-fs2t-9co {
+  margin: 0rem 6.241rem 1.427rem 0rem;
+  width: calc(100% - 6.2407rem);
+  height: 19.4727rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant5-eg3 .group-10-BR5 .auto-group-fs2t-9co .rectangle-30-4zf {
+  margin: 0.627rem 1.33rem 0rem 0rem;
+  width: 18.8812rem;
+  height: 18.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant5-eg3 .group-10-BR5 .auto-group-fs2t-9co .auto-group-ppip-C5H {
+  width: 25.8484rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant5-eg3 .group-10-BR5 .auto-group-fs2t-9co .auto-group-ppip-C5H .designing-dashboards-9WK {
+  width: 14.2rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #21243d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+}
+.blog-jp7 .group-17-j7H .property-1variant5-eg3 .group-10-BR5 .auto-group-fs2t-9co .auto-group-ppip-C5H .component-15-U2o {
+  width: 25.5rem;
+  height: 13.1727rem;
+  position: absolute;
+  left: 0.3484rem;
+  top: 6.3rem;
+}
+.blog-jp7 .group-17-j7H .property-1variant5-eg3 .group-10-BR5 .auto-group-fs2t-9co .auto-group-ppip-C5H .component-15-U2o .amet-minim-mollit-non-deserunt-ullamco-est-sit-aliqua-dolor-do-amet-sint-velit-officia-consequat-duis-enim-velit-mollit-exercitation-veniam-consequat-sunt-nostrud-amet-CjV {
+  margin-bottom: 0.7727rem;
+  max-width: 23.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #21243d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+}
+.blog-jp7 .group-17-j7H .property-1variant5-eg3 .group-10-BR5 .auto-group-fs2t-9co .auto-group-ppip-C5H .component-15-U2o .frame-7-Fxf {
+  box-sizing: border-box;
+  padding-right: 0.3251rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.blog-jp7 .group-17-j7H .property-1variant5-eg3 .group-10-BR5 .auto-group-fs2t-9co .auto-group-ppip-C5H .component-15-U2o .frame-7-Fxf .item-125-bWj {
+  margin: 0rem 0.5rem 0.1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant5-eg3 .group-10-BR5 .auto-group-fs2t-9co .auto-group-ppip-C5H .component-15-U2o .frame-7-Fxf .icon-park-outline-like-7EB {
+  margin: 0rem 3.2rem 0.484rem 0rem;
+  width: 2rem;
+  height: 1.7163rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant5-eg3 .group-10-BR5 .auto-group-fs2t-9co .auto-group-ppip-C5H .component-15-U2o .frame-7-Fxf .item-175-diK {
+  margin: 0rem 1rem 0.1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant5-eg3 .group-10-BR5 .auto-group-fs2t-9co .auto-group-ppip-C5H .component-15-U2o .frame-7-Fxf .frame-364-M8X {
+  margin: 0rem 4.873rem 0.5rem 0rem;
+  width: 1.9265rem;
+  height: 2.0455rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant5-eg3 .group-10-BR5 .auto-group-fs2t-9co .auto-group-ppip-C5H .component-15-U2o .frame-7-Fxf .item-50-H2B {
+  margin: 0.1rem 0.52rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant5-eg3 .group-10-BR5 .auto-group-fs2t-9co .auto-group-ppip-C5H .component-15-U2o .frame-7-Fxf .basil-comment-outline-zBV {
+  margin-bottom: 0.345rem;
+  width: 1.7553rem;
+  height: 1.705rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant5-eg3 .group-10-BR5 .vector-8-Wfd {
+  width: 52.3rem;
+  height: 0rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant3-TKy {
+  width: 52.3rem;
+  height: 20.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 48.6rem;
+}
+.blog-jp7 .group-17-j7H .property-1variant3-TKy .group-10-zKu {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.blog-jp7 .group-17-j7H .property-1variant3-TKy .group-10-zKu .auto-group-zrlo-wkw {
+  margin: 0rem 6.241rem 1.427rem 0rem;
+  width: calc(100% - 6.2407rem);
+  height: 19.4727rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant3-TKy .group-10-zKu .auto-group-zrlo-wkw .rectangle-30-56T {
+  margin: 0.627rem 1.33rem 0rem 0rem;
+  width: 18.8812rem;
+  height: 18.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant3-TKy .group-10-zKu .auto-group-zrlo-wkw .auto-group-dkts-bKh {
+  width: 25.8484rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant3-TKy .group-10-zKu .auto-group-zrlo-wkw .auto-group-dkts-bKh .designing-dashboards-Lo5 {
+  width: 14.2rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #21243d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+}
+.blog-jp7 .group-17-j7H .property-1variant3-TKy .group-10-zKu .auto-group-zrlo-wkw .auto-group-dkts-bKh .component-15-fKZ {
+  width: 25.5rem;
+  height: 13.1727rem;
+  position: absolute;
+  left: 0.3484rem;
+  top: 6.3rem;
+}
+.blog-jp7 .group-17-j7H .property-1variant3-TKy .group-10-zKu .auto-group-zrlo-wkw .auto-group-dkts-bKh .component-15-fKZ .amet-minim-mollit-non-deserunt-ullamco-est-sit-aliqua-dolor-do-amet-sint-velit-officia-consequat-duis-enim-velit-mollit-exercitation-veniam-consequat-sunt-nostrud-amet-Q2F {
+  margin-bottom: 0.7727rem;
+  max-width: 23.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #21243d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+}
+.blog-jp7 .group-17-j7H .property-1variant3-TKy .group-10-zKu .auto-group-zrlo-wkw .auto-group-dkts-bKh .component-15-fKZ .frame-7-fis {
+  box-sizing: border-box;
+  padding-right: 0.3251rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.blog-jp7 .group-17-j7H .property-1variant3-TKy .group-10-zKu .auto-group-zrlo-wkw .auto-group-dkts-bKh .component-15-fKZ .frame-7-fis .item-125-DVV {
+  margin: 0rem 0.5rem 0.1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant3-TKy .group-10-zKu .auto-group-zrlo-wkw .auto-group-dkts-bKh .component-15-fKZ .frame-7-fis .icon-park-outline-like-YGs {
+  margin: 0rem 3.2rem 0.484rem 0rem;
+  width: 2rem;
+  height: 1.7163rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant3-TKy .group-10-zKu .auto-group-zrlo-wkw .auto-group-dkts-bKh .component-15-fKZ .frame-7-fis .item-175-f6b {
+  margin: 0rem 1rem 0.1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant3-TKy .group-10-zKu .auto-group-zrlo-wkw .auto-group-dkts-bKh .component-15-fKZ .frame-7-fis .frame-364-BKq {
+  margin: 0rem 4.873rem 0.5rem 0rem;
+  width: 1.9265rem;
+  height: 2.0455rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant3-TKy .group-10-zKu .auto-group-zrlo-wkw .auto-group-dkts-bKh .component-15-fKZ .frame-7-fis .item-50-iKm {
+  margin: 0.1rem 0.52rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant3-TKy .group-10-zKu .auto-group-zrlo-wkw .auto-group-dkts-bKh .component-15-fKZ .frame-7-fis .basil-comment-outline-SWf {
+  margin-bottom: 0.345rem;
+  width: 1.7553rem;
+  height: 1.705rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant3-TKy .group-10-zKu .vector-8-xzo {
+  width: 52.3rem;
+  height: 0rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant6-WmR {
+  width: 52.3rem;
+  height: 20.9rem;
+  position: absolute;
+  left: 56.3rem;
+  top: 48.6rem;
+}
+.blog-jp7 .group-17-j7H .property-1variant6-WmR .group-10-42F {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.blog-jp7 .group-17-j7H .property-1variant6-WmR .group-10-42F .auto-group-wamr-cpT {
+  margin: 0rem 6.241rem 1.427rem 0rem;
+  width: calc(100% - 6.2407rem);
+  height: 19.4727rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant6-WmR .group-10-42F .auto-group-wamr-cpT .rectangle-30-ju5 {
+  margin: 0.627rem 1.33rem 0rem 0rem;
+  width: 18.8812rem;
+  height: 18.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant6-WmR .group-10-42F .auto-group-wamr-cpT .auto-group-eytm-rTu {
+  width: 25.8484rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant6-WmR .group-10-42F .auto-group-wamr-cpT .auto-group-eytm-rTu .designing-dashboards-cCB {
+  width: 14.2rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #21243d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+}
+.blog-jp7 .group-17-j7H .property-1variant6-WmR .group-10-42F .auto-group-wamr-cpT .auto-group-eytm-rTu .component-15-vCs {
+  width: 25.5rem;
+  height: 13.1727rem;
+  position: absolute;
+  left: 0.3484rem;
+  top: 6.3rem;
+}
+.blog-jp7 .group-17-j7H .property-1variant6-WmR .group-10-42F .auto-group-wamr-cpT .auto-group-eytm-rTu .component-15-vCs .amet-minim-mollit-non-deserunt-ullamco-est-sit-aliqua-dolor-do-amet-sint-velit-officia-consequat-duis-enim-velit-mollit-exercitation-veniam-consequat-sunt-nostrud-amet-TCo {
+  margin-bottom: 0.7727rem;
+  max-width: 23.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #21243d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+}
+.blog-jp7 .group-17-j7H .property-1variant6-WmR .group-10-42F .auto-group-wamr-cpT .auto-group-eytm-rTu .component-15-vCs .frame-7-7o9 {
+  box-sizing: border-box;
+  padding-right: 0.3251rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.blog-jp7 .group-17-j7H .property-1variant6-WmR .group-10-42F .auto-group-wamr-cpT .auto-group-eytm-rTu .component-15-vCs .frame-7-7o9 .item-125-Tc7 {
+  margin: 0rem 0.5rem 0.1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant6-WmR .group-10-42F .auto-group-wamr-cpT .auto-group-eytm-rTu .component-15-vCs .frame-7-7o9 .icon-park-outline-like-PEs {
+  margin: 0rem 3.2rem 0.484rem 0rem;
+  width: 2rem;
+  height: 1.7163rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant6-WmR .group-10-42F .auto-group-wamr-cpT .auto-group-eytm-rTu .component-15-vCs .frame-7-7o9 .item-175-uj1 {
+  margin: 0rem 1rem 0.1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant6-WmR .group-10-42F .auto-group-wamr-cpT .auto-group-eytm-rTu .component-15-vCs .frame-7-7o9 .frame-364-Qfm {
+  margin: 0rem 4.873rem 0.5rem 0rem;
+  width: 1.9265rem;
+  height: 2.0455rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant6-WmR .group-10-42F .auto-group-wamr-cpT .auto-group-eytm-rTu .component-15-vCs .frame-7-7o9 .item-50-ve7 {
+  margin: 0.1rem 0.52rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant6-WmR .group-10-42F .auto-group-wamr-cpT .auto-group-eytm-rTu .component-15-vCs .frame-7-7o9 .basil-comment-outline-3yd {
+  margin-bottom: 0.345rem;
+  width: 1.7553rem;
+  height: 1.705rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant6-WmR .group-10-42F .vector-8-PGo {
+  width: 52.3rem;
+  height: 0rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant7-8VH {
+  width: 52.3rem;
+  height: 20.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 71.9rem;
+}
+.blog-jp7 .group-17-j7H .property-1variant7-8VH .group-10-Fpo {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.blog-jp7 .group-17-j7H .property-1variant7-8VH .group-10-Fpo .auto-group-pq8b-orK {
+  margin: 0rem 6.241rem 1.427rem 0rem;
+  width: calc(100% - 6.2407rem);
+  height: 19.4727rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant7-8VH .group-10-Fpo .auto-group-pq8b-orK .rectangle-30-jEB {
+  margin: 0.627rem 1.33rem 0rem 0rem;
+  width: 18.8812rem;
+  height: 18.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant7-8VH .group-10-Fpo .auto-group-pq8b-orK .auto-group-kxqb-2yy {
+  width: 25.8484rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant7-8VH .group-10-Fpo .auto-group-pq8b-orK .auto-group-kxqb-2yy .designing-dashboards-b1V {
+  width: 14.2rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #21243d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+}
+.blog-jp7 .group-17-j7H .property-1variant7-8VH .group-10-Fpo .auto-group-pq8b-orK .auto-group-kxqb-2yy .component-15-Jgb {
+  width: 25.5rem;
+  height: 13.1727rem;
+  position: absolute;
+  left: 0.3484rem;
+  top: 6.3rem;
+}
+.blog-jp7 .group-17-j7H .property-1variant7-8VH .group-10-Fpo .auto-group-pq8b-orK .auto-group-kxqb-2yy .component-15-Jgb .amet-minim-mollit-non-deserunt-ullamco-est-sit-aliqua-dolor-do-amet-sint-velit-officia-consequat-duis-enim-velit-mollit-exercitation-veniam-consequat-sunt-nostrud-amet-qRd {
+  margin-bottom: 0.7727rem;
+  max-width: 23.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #21243d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+}
+.blog-jp7 .group-17-j7H .property-1variant7-8VH .group-10-Fpo .auto-group-pq8b-orK .auto-group-kxqb-2yy .component-15-Jgb .frame-7-hij {
+  box-sizing: border-box;
+  padding-right: 0.3251rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.blog-jp7 .group-17-j7H .property-1variant7-8VH .group-10-Fpo .auto-group-pq8b-orK .auto-group-kxqb-2yy .component-15-Jgb .frame-7-hij .item-125-edy {
+  margin: 0rem 0.5rem 0.1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant7-8VH .group-10-Fpo .auto-group-pq8b-orK .auto-group-kxqb-2yy .component-15-Jgb .frame-7-hij .icon-park-outline-like-AsD {
+  margin: 0rem 3.2rem 0.484rem 0rem;
+  width: 2rem;
+  height: 1.7163rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant7-8VH .group-10-Fpo .auto-group-pq8b-orK .auto-group-kxqb-2yy .component-15-Jgb .frame-7-hij .item-175-Veb {
+  margin: 0rem 1rem 0.1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant7-8VH .group-10-Fpo .auto-group-pq8b-orK .auto-group-kxqb-2yy .component-15-Jgb .frame-7-hij .frame-364-RHM {
+  margin: 0rem 4.873rem 0.5rem 0rem;
+  width: 1.9265rem;
+  height: 2.0455rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant7-8VH .group-10-Fpo .auto-group-pq8b-orK .auto-group-kxqb-2yy .component-15-Jgb .frame-7-hij .item-50-wmV {
+  margin: 0.1rem 0.52rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant7-8VH .group-10-Fpo .auto-group-pq8b-orK .auto-group-kxqb-2yy .component-15-Jgb .frame-7-hij .basil-comment-outline-Gom {
+  margin-bottom: 0.345rem;
+  width: 1.7553rem;
+  height: 1.705rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant7-8VH .group-10-Fpo .vector-8-bb9 {
+  width: 52.3rem;
+  height: 0rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant8-Lod {
+  width: 52.3rem;
+  height: 20.9rem;
+  position: absolute;
+  left: 56.3rem;
+  top: 71.9rem;
+}
+.blog-jp7 .group-17-j7H .property-1variant8-Lod .group-10-s2s {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.blog-jp7 .group-17-j7H .property-1variant8-Lod .group-10-s2s .auto-group-wyu7-Rq5 {
+  margin: 0rem 6.241rem 1.427rem 0rem;
+  width: calc(100% - 6.2407rem);
+  height: 19.4727rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant8-Lod .group-10-s2s .auto-group-wyu7-Rq5 .rectangle-30-ksM {
+  margin: 0.627rem 1.33rem 0rem 0rem;
+  width: 18.8812rem;
+  height: 18.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant8-Lod .group-10-s2s .auto-group-wyu7-Rq5 .auto-group-mjth-58w {
+  width: 25.8484rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant8-Lod .group-10-s2s .auto-group-wyu7-Rq5 .auto-group-mjth-58w .designing-dashboards-EGj {
+  width: 14.2rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #21243d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+}
+.blog-jp7 .group-17-j7H .property-1variant8-Lod .group-10-s2s .auto-group-wyu7-Rq5 .auto-group-mjth-58w .component-15-YYK {
+  width: 25.5rem;
+  height: 13.1727rem;
+  position: absolute;
+  left: 0.3484rem;
+  top: 6.3rem;
+}
+.blog-jp7 .group-17-j7H .property-1variant8-Lod .group-10-s2s .auto-group-wyu7-Rq5 .auto-group-mjth-58w .component-15-YYK .amet-minim-mollit-non-deserunt-ullamco-est-sit-aliqua-dolor-do-amet-sint-velit-officia-consequat-duis-enim-velit-mollit-exercitation-veniam-consequat-sunt-nostrud-amet-gPd {
+  margin-bottom: 0.7727rem;
+  max-width: 23.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #21243d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+}
+.blog-jp7 .group-17-j7H .property-1variant8-Lod .group-10-s2s .auto-group-wyu7-Rq5 .auto-group-mjth-58w .component-15-YYK .frame-7-8mR {
+  box-sizing: border-box;
+  padding-right: 0.3251rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.blog-jp7 .group-17-j7H .property-1variant8-Lod .group-10-s2s .auto-group-wyu7-Rq5 .auto-group-mjth-58w .component-15-YYK .frame-7-8mR .item-125-H8X {
+  margin: 0rem 0.5rem 0.1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant8-Lod .group-10-s2s .auto-group-wyu7-Rq5 .auto-group-mjth-58w .component-15-YYK .frame-7-8mR .icon-park-outline-like-PxF {
+  margin: 0rem 3.2rem 0.484rem 0rem;
+  width: 2rem;
+  height: 1.7163rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant8-Lod .group-10-s2s .auto-group-wyu7-Rq5 .auto-group-mjth-58w .component-15-YYK .frame-7-8mR .item-175-ijd {
+  margin: 0rem 1rem 0.1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant8-Lod .group-10-s2s .auto-group-wyu7-Rq5 .auto-group-mjth-58w .component-15-YYK .frame-7-8mR .frame-364-3mu {
+  margin: 0rem 4.873rem 0.5rem 0rem;
+  width: 1.9265rem;
+  height: 2.0455rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant8-Lod .group-10-s2s .auto-group-wyu7-Rq5 .auto-group-mjth-58w .component-15-YYK .frame-7-8mR .item-50-yQf {
+  margin: 0.1rem 0.52rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant8-Lod .group-10-s2s .auto-group-wyu7-Rq5 .auto-group-mjth-58w .component-15-YYK .frame-7-8mR .basil-comment-outline-6VH {
+  margin-bottom: 0.345rem;
+  width: 1.7553rem;
+  height: 1.705rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant8-Lod .group-10-s2s .vector-8-dVD {
+  width: 52.3rem;
+  height: 0rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant9-afM {
+  width: 52.3rem;
+  height: 20.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 95.2rem;
+}
+.blog-jp7 .group-17-j7H .property-1variant9-afM .group-10-iWf {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.blog-jp7 .group-17-j7H .property-1variant9-afM .group-10-iWf .auto-group-jkmh-tAF {
+  margin: 0rem 6.241rem 1.427rem 0rem;
+  width: calc(100% - 6.2407rem);
+  height: 19.4727rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant9-afM .group-10-iWf .auto-group-jkmh-tAF .rectangle-30-c6F {
+  margin: 0.627rem 1.33rem 0rem 0rem;
+  width: 18.8812rem;
+  height: 18.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant9-afM .group-10-iWf .auto-group-jkmh-tAF .auto-group-e7mm-XDD {
+  width: 25.8484rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant9-afM .group-10-iWf .auto-group-jkmh-tAF .auto-group-e7mm-XDD .designing-dashboards-5Vd {
+  width: 14.2rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #21243d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+}
+.blog-jp7 .group-17-j7H .property-1variant9-afM .group-10-iWf .auto-group-jkmh-tAF .auto-group-e7mm-XDD .component-15-bis {
+  width: 25.5rem;
+  height: 13.1727rem;
+  position: absolute;
+  left: 0.3484rem;
+  top: 6.3rem;
+}
+.blog-jp7 .group-17-j7H .property-1variant9-afM .group-10-iWf .auto-group-jkmh-tAF .auto-group-e7mm-XDD .component-15-bis .amet-minim-mollit-non-deserunt-ullamco-est-sit-aliqua-dolor-do-amet-sint-velit-officia-consequat-duis-enim-velit-mollit-exercitation-veniam-consequat-sunt-nostrud-amet-LAf {
+  margin-bottom: 0.7727rem;
+  max-width: 23.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #21243d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+}
+.blog-jp7 .group-17-j7H .property-1variant9-afM .group-10-iWf .auto-group-jkmh-tAF .auto-group-e7mm-XDD .component-15-bis .frame-7-oa3 {
+  box-sizing: border-box;
+  padding-right: 0.3251rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.blog-jp7 .group-17-j7H .property-1variant9-afM .group-10-iWf .auto-group-jkmh-tAF .auto-group-e7mm-XDD .component-15-bis .frame-7-oa3 .item-125-xC3 {
+  margin: 0rem 0.5rem 0.1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant9-afM .group-10-iWf .auto-group-jkmh-tAF .auto-group-e7mm-XDD .component-15-bis .frame-7-oa3 .icon-park-outline-like-spo {
+  margin: 0rem 3.2rem 0.484rem 0rem;
+  width: 2rem;
+  height: 1.7163rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant9-afM .group-10-iWf .auto-group-jkmh-tAF .auto-group-e7mm-XDD .component-15-bis .frame-7-oa3 .item-175-QJw {
+  margin: 0rem 1rem 0.1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant9-afM .group-10-iWf .auto-group-jkmh-tAF .auto-group-e7mm-XDD .component-15-bis .frame-7-oa3 .frame-364-LCb {
+  margin: 0rem 4.873rem 0.5rem 0rem;
+  width: 1.9265rem;
+  height: 2.0455rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant9-afM .group-10-iWf .auto-group-jkmh-tAF .auto-group-e7mm-XDD .component-15-bis .frame-7-oa3 .item-50-rRq {
+  margin: 0.1rem 0.52rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant9-afM .group-10-iWf .auto-group-jkmh-tAF .auto-group-e7mm-XDD .component-15-bis .frame-7-oa3 .basil-comment-outline-asd {
+  margin-bottom: 0.345rem;
+  width: 1.7553rem;
+  height: 1.705rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant9-afM .group-10-iWf .vector-8-iD9 {
+  width: 52.3rem;
+  height: 0rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant11-esV {
+  width: 52.3rem;
+  height: 20.9rem;
+  position: absolute;
+  left: 56.3rem;
+  top: 95.2rem;
+}
+.blog-jp7 .group-17-j7H .property-1variant11-esV .group-10-nyh {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.blog-jp7 .group-17-j7H .property-1variant11-esV .group-10-nyh .auto-group-czcf-kvX {
+  margin: 0rem 6.241rem 1.427rem 0rem;
+  width: calc(100% - 6.2407rem);
+  height: 19.4727rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant11-esV .group-10-nyh .auto-group-czcf-kvX .rectangle-30-V7R {
+  margin: 0.627rem 1.33rem 0rem 0rem;
+  width: 18.8812rem;
+  height: 18.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant11-esV .group-10-nyh .auto-group-czcf-kvX .auto-group-n89y-oP1 {
+  width: 25.8484rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant11-esV .group-10-nyh .auto-group-czcf-kvX .auto-group-n89y-oP1 .designing-dashboards-xWo {
+  width: 14.2rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #21243d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+}
+.blog-jp7 .group-17-j7H .property-1variant11-esV .group-10-nyh .auto-group-czcf-kvX .auto-group-n89y-oP1 .component-15-Uk3 {
+  width: 25.5rem;
+  height: 13.1727rem;
+  position: absolute;
+  left: 0.3484rem;
+  top: 6.3rem;
+}
+.blog-jp7 .group-17-j7H .property-1variant11-esV .group-10-nyh .auto-group-czcf-kvX .auto-group-n89y-oP1 .component-15-Uk3 .amet-minim-mollit-non-deserunt-ullamco-est-sit-aliqua-dolor-do-amet-sint-velit-officia-consequat-duis-enim-velit-mollit-exercitation-veniam-consequat-sunt-nostrud-amet-c5Z {
+  margin-bottom: 0.7727rem;
+  max-width: 23.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #21243d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+}
+.blog-jp7 .group-17-j7H .property-1variant11-esV .group-10-nyh .auto-group-czcf-kvX .auto-group-n89y-oP1 .component-15-Uk3 .frame-7-Gvo {
+  box-sizing: border-box;
+  padding-right: 0.3251rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.blog-jp7 .group-17-j7H .property-1variant11-esV .group-10-nyh .auto-group-czcf-kvX .auto-group-n89y-oP1 .component-15-Uk3 .frame-7-Gvo .item-125-Dr3 {
+  margin: 0rem 0.5rem 0.1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant11-esV .group-10-nyh .auto-group-czcf-kvX .auto-group-n89y-oP1 .component-15-Uk3 .frame-7-Gvo .icon-park-outline-like-YdR {
+  margin: 0rem 3.2rem 0.484rem 0rem;
+  width: 2rem;
+  height: 1.7163rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant11-esV .group-10-nyh .auto-group-czcf-kvX .auto-group-n89y-oP1 .component-15-Uk3 .frame-7-Gvo .item-175-fi3 {
+  margin: 0rem 1rem 0.1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant11-esV .group-10-nyh .auto-group-czcf-kvX .auto-group-n89y-oP1 .component-15-Uk3 .frame-7-Gvo .frame-364-zkK {
+  margin: 0rem 4.873rem 0.5rem 0rem;
+  width: 1.9265rem;
+  height: 2.0455rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant11-esV .group-10-nyh .auto-group-czcf-kvX .auto-group-n89y-oP1 .component-15-Uk3 .frame-7-Gvo .item-50-vts {
+  margin: 0.1rem 0.52rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant11-esV .group-10-nyh .auto-group-czcf-kvX .auto-group-n89y-oP1 .component-15-Uk3 .frame-7-Gvo .basil-comment-outline-Fw9 {
+  margin-bottom: 0.345rem;
+  width: 1.7553rem;
+  height: 1.705rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant11-esV .group-10-nyh .vector-8-bEK {
+  width: 52.3rem;
+  height: 0rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant10-LSo {
+  width: 52.3rem;
+  height: 20.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 118.5rem;
+}
+.blog-jp7 .group-17-j7H .property-1variant10-LSo .group-10-GbM {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.blog-jp7 .group-17-j7H .property-1variant10-LSo .group-10-GbM .auto-group-6yk1-psm {
+  margin: 0rem 6.241rem 1.427rem 0rem;
+  width: calc(100% - 6.2407rem);
+  height: 19.4727rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant10-LSo .group-10-GbM .auto-group-6yk1-psm .rectangle-30-9f9 {
+  margin: 0.627rem 1.33rem 0rem 0rem;
+  width: 18.8812rem;
+  height: 18.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant10-LSo .group-10-GbM .auto-group-6yk1-psm .auto-group-evzw-rpT {
+  width: 25.8484rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant10-LSo .group-10-GbM .auto-group-6yk1-psm .auto-group-evzw-rpT .designing-dashboards-Qqy {
+  width: 14.2rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #21243d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+}
+.blog-jp7 .group-17-j7H .property-1variant10-LSo .group-10-GbM .auto-group-6yk1-psm .auto-group-evzw-rpT .component-15-8GB {
+  width: 25.5rem;
+  height: 13.1727rem;
+  position: absolute;
+  left: 0.3484rem;
+  top: 6.3rem;
+}
+.blog-jp7 .group-17-j7H .property-1variant10-LSo .group-10-GbM .auto-group-6yk1-psm .auto-group-evzw-rpT .component-15-8GB .amet-minim-mollit-non-deserunt-ullamco-est-sit-aliqua-dolor-do-amet-sint-velit-officia-consequat-duis-enim-velit-mollit-exercitation-veniam-consequat-sunt-nostrud-amet-3tw {
+  margin-bottom: 0.7727rem;
+  max-width: 23.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #21243d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+}
+.blog-jp7 .group-17-j7H .property-1variant10-LSo .group-10-GbM .auto-group-6yk1-psm .auto-group-evzw-rpT .component-15-8GB .frame-7-ugF {
+  box-sizing: border-box;
+  padding-right: 0.3251rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.blog-jp7 .group-17-j7H .property-1variant10-LSo .group-10-GbM .auto-group-6yk1-psm .auto-group-evzw-rpT .component-15-8GB .frame-7-ugF .item-125-rbV {
+  margin: 0rem 0.5rem 0.1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant10-LSo .group-10-GbM .auto-group-6yk1-psm .auto-group-evzw-rpT .component-15-8GB .frame-7-ugF .icon-park-outline-like-yw1 {
+  margin: 0rem 3.2rem 0.484rem 0rem;
+  width: 2rem;
+  height: 1.7163rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant10-LSo .group-10-GbM .auto-group-6yk1-psm .auto-group-evzw-rpT .component-15-8GB .frame-7-ugF .item-175-hs1 {
+  margin: 0rem 1rem 0.1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant10-LSo .group-10-GbM .auto-group-6yk1-psm .auto-group-evzw-rpT .component-15-8GB .frame-7-ugF .frame-364-Ec3 {
+  margin: 0rem 4.873rem 0.5rem 0rem;
+  width: 1.9265rem;
+  height: 2.0455rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant10-LSo .group-10-GbM .auto-group-6yk1-psm .auto-group-evzw-rpT .component-15-8GB .frame-7-ugF .item-50-NTM {
+  margin: 0.1rem 0.52rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant10-LSo .group-10-GbM .auto-group-6yk1-psm .auto-group-evzw-rpT .component-15-8GB .frame-7-ugF .basil-comment-outline-hVd {
+  margin-bottom: 0.345rem;
+  width: 1.7553rem;
+  height: 1.705rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant10-LSo .group-10-GbM .vector-8-2no {
+  width: 52.3rem;
+  height: 0rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant12-Au1 {
+  width: 52.3rem;
+  height: 20.9rem;
+  position: absolute;
+  left: 56.3rem;
+  top: 118.5rem;
+}
+.blog-jp7 .group-17-j7H .property-1variant12-Au1 .group-10-WT5 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.blog-jp7 .group-17-j7H .property-1variant12-Au1 .group-10-WT5 .auto-group-pnef-sYX {
+  margin: 0rem 6.241rem 1.427rem 0rem;
+  width: calc(100% - 6.2407rem);
+  height: 19.4727rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant12-Au1 .group-10-WT5 .auto-group-pnef-sYX .rectangle-30-nvP {
+  margin: 0.627rem 1.33rem 0rem 0rem;
+  width: 18.8812rem;
+  height: 18.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant12-Au1 .group-10-WT5 .auto-group-pnef-sYX .auto-group-r8uj-uVD {
+  width: 25.8484rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant12-Au1 .group-10-WT5 .auto-group-pnef-sYX .auto-group-r8uj-uVD .designing-dashboards-Foy {
+  width: 14.2rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #21243d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+}
+.blog-jp7 .group-17-j7H .property-1variant12-Au1 .group-10-WT5 .auto-group-pnef-sYX .auto-group-r8uj-uVD .component-15-yEB {
+  width: 25.5rem;
+  height: 13.1727rem;
+  position: absolute;
+  left: 0.3484rem;
+  top: 6.3rem;
+}
+.blog-jp7 .group-17-j7H .property-1variant12-Au1 .group-10-WT5 .auto-group-pnef-sYX .auto-group-r8uj-uVD .component-15-yEB .amet-minim-mollit-non-deserunt-ullamco-est-sit-aliqua-dolor-do-amet-sint-velit-officia-consequat-duis-enim-velit-mollit-exercitation-veniam-consequat-sunt-nostrud-amet-JnF {
+  margin-bottom: 0.7727rem;
+  max-width: 23.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #21243d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+}
+.blog-jp7 .group-17-j7H .property-1variant12-Au1 .group-10-WT5 .auto-group-pnef-sYX .auto-group-r8uj-uVD .component-15-yEB .frame-7-mQw {
+  box-sizing: border-box;
+  padding-right: 0.3251rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.blog-jp7 .group-17-j7H .property-1variant12-Au1 .group-10-WT5 .auto-group-pnef-sYX .auto-group-r8uj-uVD .component-15-yEB .frame-7-mQw .item-125-Jvf {
+  margin: 0rem 0.5rem 0.1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant12-Au1 .group-10-WT5 .auto-group-pnef-sYX .auto-group-r8uj-uVD .component-15-yEB .frame-7-mQw .icon-park-outline-like-SGB {
+  margin: 0rem 3.2rem 0.484rem 0rem;
+  width: 2rem;
+  height: 1.7163rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant12-Au1 .group-10-WT5 .auto-group-pnef-sYX .auto-group-r8uj-uVD .component-15-yEB .frame-7-mQw .item-175-9wH {
+  margin: 0rem 1rem 0.1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant12-Au1 .group-10-WT5 .auto-group-pnef-sYX .auto-group-r8uj-uVD .component-15-yEB .frame-7-mQw .frame-364-5a3 {
+  margin: 0rem 4.873rem 0.5rem 0rem;
+  width: 1.9265rem;
+  height: 2.0455rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant12-Au1 .group-10-WT5 .auto-group-pnef-sYX .auto-group-r8uj-uVD .component-15-yEB .frame-7-mQw .item-50-cps {
+  margin: 0.1rem 0.52rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1725;
+  color: #0d478c;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant12-Au1 .group-10-WT5 .auto-group-pnef-sYX .auto-group-r8uj-uVD .component-15-yEB .frame-7-mQw .basil-comment-outline-kAP {
+  margin-bottom: 0.345rem;
+  width: 1.7553rem;
+  height: 1.705rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .group-17-j7H .property-1variant12-Au1 .group-10-WT5 .vector-8-5Cf {
+  width: 52.3rem;
+  height: 0rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .button-z4j {
+  margin: 0rem 39.9rem 13.8rem 40.039rem;
+  width: calc(100% - 79.9388rem);
+  height: 7.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #0d478c;
+  flex-shrink: 0;
+}
+.blog-jp7 .contact-section-qb9 {
+  margin: 0rem 1.6rem 0rem 4.239rem;
+  box-sizing: border-box;
+  padding: 4.2rem 2.4rem 2.9rem 2.4rem;
+  width: calc(100% - 5.8388rem);
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.blog-jp7 .contact-section-qb9 .lets-work-together-wPH {
+  margin-bottom: 2.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.3125;
+  color: #2d2d2d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-jp7 .contact-section-qb9 .contact-section-content-GRZ {
+  width: 100%;
+  height: 23.2rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.blog-jp7 .contact-section-qb9 .contact-section-content-GRZ .contact-info-aBM {
+  margin-right: 15.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-jp7 .contact-section-qb9 .contact-section-content-GRZ .contact-info-aBM .this-is-a-template-figma-file-turned-into-code-using-anima-learn-more-at-animaappcom-this-is-a-template-figma-file-turned-into-code-using-anima-learn-more-at-animaappcom-iYT {
+  margin-bottom: 4.2rem;
+  max-width: 44.3rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.5882352941;
+  color: #2d2d2d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-jp7 .contact-section-qb9 .contact-section-content-GRZ .contact-info-aBM .social-links-mWj {
+  box-sizing: border-box;
+  padding: 0.3rem 0.299rem 0.3rem 0.45rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-jp7 .contact-section-qb9 .contact-section-content-GRZ .contact-info-aBM .social-links-mWj .discord-63D {
+  margin: 0.15rem 3.506rem 0rem 0rem;
+  width: 2.4938rem;
+  height: 2.85rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .contact-section-qb9 .contact-section-content-GRZ .contact-info-aBM .social-links-mWj .facebook-oiK {
+  margin-right: 3.15rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .contact-section-qb9 .contact-section-content-GRZ .contact-info-aBM .social-links-mWj .dribbble-wJj {
+  margin-right: 3.1503rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .contact-section-qb9 .contact-section-content-GRZ .contact-info-aBM .social-links-mWj .nstagram-Gro {
+  margin: 0.007rem 3.149rem 0rem 0rem;
+  width: 2.7012rem;
+  height: 2.7054rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .contact-section-qb9 .contact-section-content-GRZ .contact-info-aBM .social-links-mWj .behance-obq {
+  margin-bottom: 0.0001rem;
+  width: 3.0013rem;
+  height: 1.8806rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-jp7 .contact-section-qb9 .contact-section-content-GRZ .contact-form-wCF {
+  width: 45.3rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.blog-jp7 .contact-section-qb9 .contact-section-content-GRZ .contact-form-wCF .input-fields-HX1 {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.blog-jp7 .contact-section-qb9 .contact-section-content-GRZ .contact-form-wCF .input-fields-HX1 .input-field-2jV {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem 2.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.5882352941;
+  color: #2d2d2d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #f3f3f3;
+  flex-shrink: 0;
+}
+.blog-jp7 .contact-section-qb9 .contact-section-content-GRZ .contact-form-wCF .input-fields-HX1 .input-field-Wef {
+  box-sizing: border-box;
+  padding: 1.6rem 2.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.5882352941;
+  color: #2d2d2d;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #f3f3f3;
+  flex-shrink: 0;
+}
+.blog-jp7 .contact-section-qb9 .contact-section-content-GRZ .contact-form-wCF .button-cSo {
+  width: 18.5rem;
+  height: 7.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #2d2d2d;
+}
