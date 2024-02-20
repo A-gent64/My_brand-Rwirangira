@@ -1,9 +1,9 @@
 function valid() { 
     
 	const email = 
-		document.querySelector("auto-group-fsl7-2vw").value;  
+		document.getElementById("email").value;  
 	const password = 
-		document.forms.fill.pass.value; 
+		document.getElementById("pass").value; 
 	console.log(password); 
 
 	if (email === "" || !email.includes('@')) { 
