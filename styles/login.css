@@ -21,10 +21,10 @@ input {
 	border: none;
 }
 body {
-  width: 128rem;
+  width: 120rem;
 }.login-4G3 {
   box-sizing: border-box;
-  padding: 0.9rem 1.039rem 4.332rem 1.039rem;
+  padding: 0.9rem 1.039rem 6.332rem 1.039rem;
   width: 100%;
   align-items: flex-end;
   display: flex;
@@ -33,7 +33,7 @@ body {
 }
 .login-4G3 .auto-group-jhph-NnX {
   margin: 0rem 1.961rem 7.735rem 0rem;
-  width: calc(100% - 1.9612rem);
+  width: calc(100% - 5.9612rem);
   display: flex;
   align-items: flex-start;
   flex-shrink: 0;
@@ -52,8 +52,8 @@ body {
 .login-4G3 .auto-group-jhph-NnX .frame-361-QDR {
   margin-bottom: 0.465rem;
   display: flex;
-  column-gap: 5rem;
-  align-items: center;
+  column-gap: 3rem;
+  align-items: flex-start;
   flex-shrink: 0;
 }
 .login-4G3 .auto-group-jhph-NnX .frame-361-QDR .home-wUF {
@@ -127,7 +127,7 @@ body {
   flex-shrink: 0;
 }
 .login-4G3 .loin-MAb {
-  margin-right: 2.5612rem;
+  
   box-sizing: border-box;
   padding: 12.894rem 12rem 14.008rem 12rem;
   width: 64.1rem;
@@ -138,13 +138,13 @@ body {
   box-shadow: 0 0.4rem 7rem rgba(0, 0, 0, 0.1000000015);
   flex-shrink: 0;
 }
-.login-4G3 .loin-MAb .fileds-G2f {
+.login-4G3 .loin-MAb .fill {
   width: 100%;
   height: 100%;
   display: flex;
   flex-direction: column;
 }
-.login-4G3 .loin-MAb .fileds-G2f .login-Pd5 {
+.login-4G3 .loin-MAb .fill .login-Pd5 {
   margin: 0rem 0rem 1.676rem 0.1rem;
   display: flex;
   font-size: 3.8rem;
@@ -155,7 +155,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.login-4G3 .loin-MAb .fileds-G2f .email-JEF {
+.login-4G3 .loin-MAb .fill .email-JEF {
   margin-bottom: 0.4562rem;
   display: flex;
   font-size: 1.4rem;
@@ -166,7 +166,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.login-4G3 .loin-MAb .fileds-G2f .auto-group-fsl7-2vw {
+.login-4G3 .loin-MAb .fill .auto-group-fsl7-2vw {
   margin: 0rem 0rem 2.416rem 0.1rem;
   box-sizing: border-box;
   padding: 1.191rem 2.2rem 1.191rem 2.2rem;
@@ -183,7 +183,7 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.login-4G3 .loin-MAb .fileds-G2f .password-ruy {
+.login-4G3 .loin-MAb .fill .password-ruy {
   margin-bottom: 0.4562rem;
   display: flex;
   font-size: 1.4rem;
@@ -194,7 +194,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.login-4G3 .loin-MAb .fileds-G2f .auto-group-6chh-CU3 {
+.login-4G3 .loin-MAb .fill .auto-group-6chh-CU3 {
   margin: 0rem 0rem 1.209rem 0.1rem;
   box-sizing: border-box;
   padding: 1.191rem 2.2rem 1.191rem 2.2rem;
@@ -211,7 +211,7 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.login-4G3 .loin-MAb .fileds-G2f .forgot-password-3Dm {
+.login-4G3 .loin-MAb .fill .forgot-password-3Dm {
   margin: 0rem 0rem 3.25rem 0.1rem;
   display: flex;
   font-size: 1.2rem;
@@ -222,7 +222,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.login-4G3 .loin-MAb .fileds-G2f .auto-group-kwqm-Lif {
+.login-4G3 .loin-MAb .fill .auto-group-kwqm-Lif {
   margin: 0rem 0rem 7.347rem 0.1rem;
   width: 40rem;
   height: 4.0819rem;
@@ -239,14 +239,14 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.login-4G3 .loin-MAb .fileds-G2f .auto-group-qhud-CVy {
+.login-4G3 .loin-MAb .fill .auto-group-qhud-CVy {
   margin: 0rem 5.3rem 0rem 3.4rem;
   width: calc(100% - 8.7rem);
   display: flex;
   align-items: flex-end;
   flex-shrink: 0;
 }
-.login-4G3 .loin-MAb .fileds-G2f .auto-group-qhud-CVy .dont-have-an-account-yet-KqV {
+.login-4G3 .loin-MAb .fill .auto-group-qhud-CVy .dont-have-an-account-yet-KqV {
   margin: 0rem 5rem 0.245rem 0rem;
   display: flex;
   font-size: 1.4rem;
@@ -257,7 +257,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.login-4G3 .loin-MAb .fileds-G2f .auto-group-qhud-CVy .register-for-free-RNj {
+.login-4G3 .loin-MAb .fill .auto-group-qhud-CVy .register-for-free-RNj {
   margin-right: 0.2rem;
   display: flex;
   font-size: 1.4rem;
@@ -268,7 +268,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.login-4G3 .loin-MAb .fileds-G2f .auto-group-qhud-CVy .bi-facebook-9Jj {
+.login-4G3 .loin-MAb .fill .auto-group-qhud-CVy .bi-facebook-9Jj {
   margin-bottom: 0.85rem;
   width: 2.4rem;
   height: 1.9593rem;
