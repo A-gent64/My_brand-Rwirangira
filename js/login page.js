@@ -19,9 +19,9 @@ function valid() {
 		return false; 
 	} 
 
-	if (password.length < 6) { 
+	if (password.length < 8) { 
 		alert 
-			("Password should be atleast 6 character long"); 
+			("Password should be atleast 8 character long"); 
 		password.focus(); 
 		return false; 
 
