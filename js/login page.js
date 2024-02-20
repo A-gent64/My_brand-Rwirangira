@@ -1,10 +1,10 @@
 function valid() { 
-
+    
 	const email = 
-		document.forms.fill.email.value;  
+		document.querySelector("auto-group-fsl7-2vw").value;  
 	const password = 
 		document.forms.fill.pass.value; 
-	console.log(email,password); 
+	console.log(password); 
 
 	if (email === "" || !email.includes('@')) { 
 		window.alert
