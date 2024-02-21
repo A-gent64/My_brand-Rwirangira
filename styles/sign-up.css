@@ -38,7 +38,7 @@ body {
   align-items: flex-start;
   flex-shrink: 0;
 }
-.sign-up-LV1 .auto-group-ff31-ry9 .portfolio-zpT {
+.portfolio-zpT {
   margin: 0.065rem 25.861rem 0rem 0rem;
   display: flex;
   font-size: 4rem;
@@ -49,14 +49,14 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.sign-up-LV1 .auto-group-ff31-ry9 .frame-361-ikT {
+.frame-361-ikT {
   margin-bottom: 0.465rem;
   display: flex;
   column-gap: 5rem;
   align-items: center;
   flex-shrink: 0;
 }
-.sign-up-LV1 .auto-group-ff31-ry9 .frame-361-ikT .home-Txw {
+.home-Txw {
   display: flex;
   font-size: 3.2rem;
   font-weight: 400;
@@ -66,7 +66,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.sign-up-LV1 .auto-group-ff31-ry9 .frame-361-ikT .about-1Uf {
+.about-1Uf {
   display: flex;
   font-size: 3.2rem;
   font-weight: 400;
@@ -76,7 +76,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.sign-up-LV1 .auto-group-ff31-ry9 .frame-361-ikT .work-kh9 {
+.work-kh9 {
   display: flex;
   font-size: 3.2rem;
   font-weight: 400;
@@ -86,7 +86,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.sign-up-LV1 .auto-group-ff31-ry9 .frame-361-ikT .blog-JTm {
+.blog-JTm {
   display: flex;
   font-size: 3.2rem;
   font-weight: 400;
@@ -96,7 +96,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.sign-up-LV1 .auto-group-ff31-ry9 .frame-361-ikT .contact-eGj {
+.contact-eGj {
   display: flex;
   font-size: 3.2rem;
   font-weight: 400;
@@ -106,7 +106,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.sign-up-LV1 .auto-group-ff31-ry9 .frame-361-ikT .login-Pk7 {
+.login-Pk7 {
   display: flex;
   font-size: 3.2rem;
   font-weight: 400;
@@ -116,7 +116,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.sign-up-LV1 .auto-group-ff31-ry9 .frame-361-ikT .sign-up-Yd1 {
+.sign-up-Yd1 {
   display: flex;
   font-size: 3.2rem;
   font-weight: 400;
@@ -137,7 +137,7 @@ body {
   box-shadow: 0 0.4rem 7rem rgba(0, 0, 0, 0.1000000015);
   flex-shrink: 0;
 }
-.sign-up-LV1 .loin-tRy .sign-up-Qv7 {
+.sign-up-Qv7 {
   width: 11.5rem;
   height: 4.5rem;
   position: absolute;
@@ -151,7 +151,7 @@ body {
   font-family: Roboto Condensed, 'Source Sans Pro';
   white-space: nowrap;
 }
-.sign-up-LV1 .loin-tRy .email-iR1 {
+.email-iR1 {
   width: 3.1rem;
   height: 1.7rem;
   position: absolute;
@@ -165,7 +165,7 @@ body {
   font-family: Roboto Condensed, 'Source Sans Pro';
   white-space: nowrap;
 }
-.sign-up-LV1 .loin-tRy .auto-group-kehz-E8T {
+.auto-group-kehz-E8T {
   box-sizing: border-box;
   padding: 1.191rem 2.2rem 1.191rem 2.2rem;
   width: 40rem;
@@ -184,7 +184,7 @@ body {
   background-color: #ffffff;
   border-radius: 0.5rem;
 }
-.sign-up-LV1 .loin-tRy .auto-group-mgef-rfd {
+.auto-group-mgef-rfd {
   box-sizing: border-box;
   padding: 1.191rem 2.2rem 1.191rem 2.2rem;
   width: 40rem;
@@ -203,7 +203,7 @@ body {
   background-color: #ffffff;
   border-radius: 0.5rem;
 }
-.sign-up-LV1 .loin-tRy .confirm-password-Vib {
+.confirm-password-Vib {
   width: 10.1rem;
   height: 1.7rem;
   position: absolute;
@@ -217,7 +217,7 @@ body {
   font-family: Roboto Condensed, 'Source Sans Pro';
   white-space: nowrap;
 }
-.sign-up-LV1 .loin-tRy .auto-group-4ar1-C7D {
+.auto-group-4ar1-C7D {
   box-sizing: border-box;
   padding: 1.191rem 2.2rem 1.191rem 2.2rem;
   width: 40rem;
@@ -236,7 +236,7 @@ body {
   background-color: #ffffff;
   border-radius: 0.5rem;
 }
-.sign-up-LV1 .loin-tRy .new-password-diK {
+.new-password-diK {
   width: 8.2rem;
   height: 1.7rem;
   position: absolute;
@@ -250,7 +250,7 @@ body {
   font-family: Roboto Condensed, 'Source Sans Pro';
   white-space: nowrap;
 }
-.sign-up-LV1 .loin-tRy .auto-group-ekx7-YaP {
+.auto-group-ekx7-YaP {
   width: 31.4rem;
   height: 2.8093rem;
   position: absolute;
@@ -259,7 +259,7 @@ body {
   display: flex;
   align-items: flex-end;
 }
-.sign-up-LV1 .loin-tRy .auto-group-ekx7-YaP .dont-have-an-account-yet-GmH {
+.dont-have-an-account-yet-GmH {
   margin: 0rem 5rem 0.245rem 0rem;
   display: flex;
   font-size: 1.4rem;
@@ -270,7 +270,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.sign-up-LV1 .loin-tRy .auto-group-ekx7-YaP .register-for-free-ALs {
+.register-for-free-ALs {
   margin-right: 0.2rem;
   display: flex;
   font-size: 1.4rem;
