@@ -281,16 +281,14 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.sign-up-LV1 .loin-tRy .auto-group-ekx7-YaP .bi-facebook-HwH {
-  margin-bottom: 0.85rem;
-  width: 2.4rem;
+.bi-facebook-HwH {
+  margin-bottom: 1.85rem;
   height: 1.9593rem;
   overflow: hidden;
   position: relative;
-  border-radius: 4rem;
   flex-shrink: 0;
 }
-.sign-up-LV1 .loin-tRy .auto-group-fch1-cTm {
+.auto-group-fch1-cTm {
   width: 40rem;
   height: 4.0819rem;
   position: absolute;
@@ -307,4 +305,9 @@ body {
   justify-content: center;
   background-color: #0d478c;
   border-radius: 0.5rem;
+}
+#error
+{
+  position: relative;
+
 }
