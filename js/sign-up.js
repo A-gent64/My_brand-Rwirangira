@@ -7,14 +7,14 @@ function valid() {
     const email = 
         document.getElementById("email").value;  
     const password = 
-        document.getElementById("pass").value; 
-    const password1 = 
         document.getElementById("pass1").value; 
+    const password1 = 
+        document.getElementById("pass").value; 
     console.log(password); 
 
     if (email === "" || !email.includes('@')) { 
         // Changed innerHTML assignment
-        meme.innerHTML = '<p>Please enter a valid e-mail address.</p>';
+        meme.innerHTML = 'Please enter a valid e-mail address.';
         // Removed email.focus(), focus is not available for a string
         // email.focus(); 
         return false; 
@@ -43,4 +43,3 @@ function valid() {
     }
     return true; 
 }
-console.log("hello there");

@@ -31,14 +31,14 @@ body {
   flex-direction: column;
   background-color: #ffffff;
 }
-.login-4G3 .auto-group-jhph-NnX {
+auto-group-jhph-NnX {
   margin: 0rem 1.961rem 7.735rem 0rem;
   width: calc(100% - 5.9612rem);
   display: flex;
   align-items: flex-start;
   flex-shrink: 0;
 }
-.login-4G3 .auto-group-jhph-NnX .portfolio-hpo {
+#portfolio {
   margin: 0.065rem 25.861rem 0rem 0rem;
   display: flex;
   font-size: 4rem;
@@ -49,14 +49,14 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.login-4G3 .auto-group-jhph-NnX .frame-361-QDR {
+.frame-361-QDR {
   margin-bottom: 0.465rem;
   display: flex;
   column-gap: 3rem;
   align-items: flex-start;
   flex-shrink: 0;
 }
-.login-4G3 .auto-group-jhph-NnX .frame-361-QDR .home-wUF {
+.home-wUF {
   display: flex;
   font-size: 3.2rem;
   font-weight: 400;
@@ -66,7 +66,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.login-4G3 .auto-group-jhph-NnX .frame-361-QDR .about-Uyy {
+.about-Uyy {
   display: flex;
   font-size: 3.2rem;
   font-weight: 400;
@@ -76,7 +76,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.login-4G3 .auto-group-jhph-NnX .frame-361-QDR .work-pY3 {
+.work-pY3 {
   display: flex;
   font-size: 3.2rem;
   font-weight: 400;
@@ -86,7 +86,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.login-4G3 .auto-group-jhph-NnX .frame-361-QDR .blog-Abu {
+.blog-Abu {
   display: flex;
   font-size: 3.2rem;
   font-weight: 400;
@@ -96,7 +96,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.login-4G3 .auto-group-jhph-NnX .frame-361-QDR .contact-iNX {
+.contact-iNX {
   display: flex;
   font-size: 3.2rem;
   font-weight: 400;
@@ -106,7 +106,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.login-4G3 .auto-group-jhph-NnX .frame-361-QDR .login-fYf {
+.login-fYf {
   display: flex;
   font-size: 3.2rem;
   font-weight: 400;
@@ -116,7 +116,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.login-4G3 .auto-group-jhph-NnX .frame-361-QDR .sign-up-28K {
+.sign-up-28K {
   display: flex;
   font-size: 3.2rem;
   font-weight: 400;
@@ -138,13 +138,13 @@ body {
   box-shadow: 0 0.4rem 7rem rgba(0, 0, 0, 0.1000000015);
   flex-shrink: 0;
 }
-.login-4G3 .loin-MAb .fill {
+.fill {
   width: 100%;
   height: 100%;
   display: flex;
   flex-direction: column;
 }
-.login-4G3 .loin-MAb .fill .login-Pd5 {
+.login-Pd5 {
   margin: 0rem 0rem 1.676rem 0.1rem;
   display: flex;
   font-size: 3.8rem;
@@ -155,7 +155,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.login-4G3 .loin-MAb .fill .email-JEF {
+.email-JEF {
   margin-bottom: 0.4562rem;
   display: flex;
   font-size: 1.4rem;
@@ -166,7 +166,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.login-4G3 .loin-MAb .fill .auto-group-fsl7-2vw {
+.auto-group-fsl7-2vw {
   margin: 0rem 0rem 2.416rem 0.1rem;
   box-sizing: border-box;
   padding: 1.191rem 2.2rem 1.191rem 2.2rem;
@@ -183,7 +183,7 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.login-4G3 .loin-MAb .fill .password-ruy {
+.password-ruy {
   margin-bottom: 0.4562rem;
   display: flex;
   font-size: 1.4rem;
@@ -194,7 +194,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.login-4G3 .loin-MAb .fill .auto-group-6chh-CU3 {
+.auto-group-6chh-CU3 {
   margin: 0rem 0rem 1.209rem 0.1rem;
   box-sizing: border-box;
   padding: 1.191rem 2.2rem 1.191rem 2.2rem;
@@ -211,7 +211,7 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.login-4G3 .loin-MAb .fill .forgot-password-3Dm {
+.forgot-password-3Dm {
   margin: 0rem 0rem 3.25rem 0.1rem;
   display: flex;
   font-size: 1.2rem;
@@ -222,7 +222,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.login-4G3 .loin-MAb .fill .auto-group-kwqm-Lif {
+.auto-group-kwqm-Lif {
   margin: 0rem 0rem 7.347rem 0.1rem;
   width: 40rem;
   height: 4.0819rem;
@@ -239,14 +239,14 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.login-4G3 .loin-MAb .fill .auto-group-qhud-CVy {
+.auto-group-qhud-CVy {
   margin: 0rem 5.3rem 0rem 3.4rem;
   width: calc(100% - 8.7rem);
   display: flex;
   align-items: flex-end;
   flex-shrink: 0;
 }
-.login-4G3 .loin-MAb .fill .auto-group-qhud-CVy .dont-have-an-account-yet-KqV {
+.dont-have-an-account-yet-KqV {
   margin: 0rem 5rem 0.245rem 0rem;
   display: flex;
   font-size: 1.4rem;
@@ -257,7 +257,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.login-4G3 .loin-MAb .fill .auto-group-qhud-CVy .register-for-free-RNj {
+.register-for-free-RNj {
   margin-right: 0.2rem;
   display: flex;
   font-size: 1.4rem;
@@ -268,7 +268,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.login-4G3 .loin-MAb .fill .auto-group-qhud-CVy .bi-facebook-9Jj {
+.bi-facebook-9Jj {
   margin-bottom: 0.85rem;
   width: 2.4rem;
   height: 1.9593rem;
