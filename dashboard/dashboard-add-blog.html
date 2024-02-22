@@ -149,19 +149,22 @@
         const hours = todayDate.getHours();
         const minutes = todayDate.getMinutes(); 
         const seconds = todayDate.getSeconds();
-        let imgData;
-        blogPoster.addEventListener('change', (event) => {
+        let imgDataURL;
+blogPoster.addEventListener('change', (event) => {
     const image = event.target.files[0];
-
     const reader = new FileReader();
 
-    imgData =reader.readAsDataURL(image);
+    reader.onload = function(event) {
+        imgDataURL = event.target.result;
+        console.log('Image data:', imgDataURL);
+    };
 
+    reader.readAsDataURL(image);
 });
-console.log(imgData);
+
 const handleBlogSubmit = () => {
-  let params = {
-    poster: imgData,
+let params = {
+    poster: imgDataURL,
     title: blogTitle.value,
     subtitle: blogSubTitle.value,
     content: blogContent.value,
