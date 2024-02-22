@@ -64,12 +64,8 @@
     <div class="dashboard-content-container">
 
         <div class="dashboard-header">
-            <div class="input-for search-form">
-                <input type="search" name="email" id="email" placeholder="Enter Your Email"/>
+            <div class="input-for">
                 
-                <span class="material-symbols-outlined">
-                    search
-                    </span>
               </div>
             <div class="dashboard-user-info">
                 <img src="/assets/images/admin.png" alt="avatar" class="avatar">
@@ -106,25 +102,6 @@
                         <p class="small-text red-text error" id="blog-form-sub-title-error"></p>
 
                       </div>
-
-                      <div class="input-form">
-                        <p class="hite-text title small-text">Category</p>
-                          <select name="categories" id="blog-form-category">
-                            <option value="">Choose Category</option>
-                            <option value="web-development">Web Development</option>
-                            <option value="artificial-intelligence">Artificial Intelligence</option>
-                            <option value="technology">Technology</option>
-                            <option value="web-hosting">Web Hosting</option>
-                        </select>
-                        <p class="small-text red-text error" id="blog-form-category-error"></p>
-
-                      </div>
-                      <div class="input-form">
-                        <p class="hite-text title small-text">Time To read</p>
-                        <input type="text" name="time" id="blog-form-time-to-read" placeholder="Enter TheTime Taken To read"/>
-                        <p class="small-text red-text error" id="blog-form-time-to-read-error"></p>
-                      
-                    </div>
                       <div class="input-form">
                         <p class="hite-text title small-text">Content</p>
                         <label for="blog-form-content"></label>
@@ -170,20 +147,27 @@
         const month = todayDate.getMonth();
         const year = todayDate.getFullYear();
         const hours = todayDate.getHours();
-        const minutes = todayDate.getMinutes();
+        const minutes = todayDate.getMinutes(); 
         const seconds = todayDate.getSeconds();
+        let imgData;
+        blogPoster.addEventListener('change', (event) => {
+    const image = event.target.files[0];
 
+    const reader = new FileReader();
+
+    imgData =reader.readAsDataURL(image);
+
+});
+console.log(imgData);
 const handleBlogSubmit = () => {
   let params = {
-    poster: blogPoster.value,
+    poster: imgData,
     title: blogTitle.value,
     subtitle: blogSubTitle.value,
-    category: blogCategory.value,
     content: blogContent.value,
-    timeToRead: blogTime.value,
     date: `${today}/${month}/${year}`,
     time: `${hours}:${minutes}:${seconds}`,
-    editor:"Gatete Rwirangira",
+    editor:"Rwirangira",
     views:[],
     likes:[],
     comments:[],
@@ -196,20 +180,15 @@ const handleBlogSubmit = () => {
   localStorage.setItem('articles', JSON.stringify(allArticles)); // Store the updated array in local storage
 
        console.log('user articles',allArticles);
-  alert("Form submited");
+  successElement.innerText="Form submited";
   blogPoster.value = "";
   blogSubTitle.value = "";
   blogTitle.value = "";
     blogContent.value = "";
-    blogTime.value = ""; 
-    blogCategory.value = ""; 
     blogPosterError.innerHTML = '';
     blogTitleError.innerHTML = '';
     blogSubTitleError.innerHTML = '';
     blogContentError.innerHTML = '';
-    blogTimeError.innerHTML = '';
-    blogCategoryError.innerHTML = '';
-
     successElement.innerText = "Blog Posted Successfully";
     errorContainer.style.display = "none"
     successContainer.style.display = "flex";
@@ -237,7 +216,6 @@ const handleBlogSubmit = () => {
             else if(blogTitle.value ==="" || blogTitle.value === null){
                 blogPosterError.style.display = 'none';
                 blogPoster.style.border = '1px solid green';
-                errors.push('Title is required')
                 blogTitleError.style.opacity = '1';
                 blogTitleError.style.display = 'block';
                 blogTitleError.innerHTML = 'Title is required';
@@ -246,35 +224,14 @@ const handleBlogSubmit = () => {
             else if(blogSubTitle.value ==="" || blogSubTitle.value === null){
                 blogTitleError.style.display = 'none';
                 blogTitle.style.border = '1px solid green';
-                errors.push('sub Title is required')
                 blogSubTitleError.style.opacity = '1';
                 blogSubTitleError.style.display = 'block';
                 blogSubTitleError.innerHTML = 'SubTitle is required';
                 blogSubTitle.style.border = '1px solid red';
             }
-            else if(blogTime.value ==="" || blogTime.value === null){
-                blogSubTitleError.style.display = 'none';
-                blogSubTitle.style.border = '1px solid green';
-                errors.push('Time is required')
-                blogTimeError.style.opacity = '1';
-                blogTimeError.style.display = 'block';
-                blogTimeError.innerHTML = 'Time is required';
-                blogTime.style.border = '1px solid red';
-            }
-            else if(blogCategory.value ==="" || blogCategory.value === null){
-                blogTimeError.style.display = 'none';
-                blogTime.style.border = '1px solid green';
-                errors.push('Category is required')
-                blogCategoryError.style.opacity = '1';
-                blogCategoryError.style.display = 'block';
-                blogCategoryError.innerHTML = 'Blog Category is required';
-                blogCategory.style.border = '1px solid red';
-            }
-
              else if(blogContent.value ==="" || blogContent.value === null){
                 blogCategoryError.style.display = 'none';
                 blogCategory.style.border = '1px solid green';
-                errors.push('Blog Content is required')
                 blogContentError.style.opacity = '1';
                 blogContentError.style.display = 'block';
                 blogContentError.innerHTML = 'Blog Content is required';

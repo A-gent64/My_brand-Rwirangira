@@ -32,7 +32,7 @@ body {
   flex-direction: column;
   background-color: #ffffff;
 }
-.work-HZd .auto-group-xgaw-oXy {
+.auto-group-xgaw-oXy {
   margin-bottom: 15.565rem;
   width: 100%;
   height: 3.6rem;
@@ -40,7 +40,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.work-HZd .auto-group-xgaw-oXy .portfolio-weB {
+.portfolio-weB {
   margin-right: 44.0388rem;
   display: flex;
   font-size: 4rem;
@@ -51,7 +51,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.work-HZd .auto-group-xgaw-oXy .frame-17-eoV {
+.frame-17-eoV {
   margin: 0.165rem 0rem 0.235rem 0rem;
   height: calc(100% - 0.4rem);
   display: flex;
@@ -59,7 +59,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.work-HZd .auto-group-xgaw-oXy .frame-17-eoV .home-xZH {
+.home-xZH {
   display: flex;
   font-size: 3.2rem;
   font-weight: 400;
@@ -69,7 +69,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.work-HZd .auto-group-xgaw-oXy .frame-17-eoV .about-6vP {
+.about-6vP {
   display: flex;
   font-size: 3.2rem;
   font-weight: 400;
@@ -79,7 +79,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.work-HZd .auto-group-xgaw-oXy .frame-17-eoV .work-SzF {
+.work-SzF {
   display: flex;
   font-size: 3.2rem;
   font-weight: 400;
@@ -89,7 +89,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.work-HZd .auto-group-xgaw-oXy .frame-17-eoV .blog-bMM {
+.blog-bMM {
   display: flex;
   font-size: 3.2rem;
   font-weight: 400;
@@ -99,7 +99,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.work-HZd .auto-group-xgaw-oXy .frame-17-eoV .contact-97y {
+.contact-97y {
   display: flex;
   font-size: 3.2rem;
   font-weight: 400;
@@ -109,7 +109,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.work-HZd .auto-group-xgaw-oXy .frame-17-eoV .skills-h9V {
+.skills-h9V {
   display: flex;
   font-size: 3.2rem;
   font-weight: 400;
@@ -119,7 +119,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.work-HZd .work-qWb {
+.work-qWb {
   margin: 0rem 0rem 5.435rem 3.739rem;
   font-size: 4.4rem;
   font-weight: 700;
@@ -129,7 +129,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs {
+.gallery-section-AYs {
   margin: 0rem 1.7rem 19.265rem 2.239rem;
   box-sizing: border-box;
   padding: 4.2rem 2.4rem;
@@ -142,7 +142,7 @@ body {
   background-color: #ffffff;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .latest-work-Gro {
+.latest-work-Gro {
   margin-bottom: 4.2rem;
   text-align: center;
   font-size: 3.2rem;
@@ -153,7 +153,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB {
+.cards-section-beB {
   width: 100%;
   height: 86.2rem;
   display: flex;
@@ -161,7 +161,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-km7q-LLs {
+.auto-group-km7q-LLs {
   width: 33.9rem;
   height: 100%;
   align-items: center;
@@ -169,14 +169,14 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-km7q-LLs .gallery-card-5ZM {
+.gallery-card-5ZM {
   margin-bottom: 2.4rem;
   width: 100%;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-km7q-LLs .gallery-card-5ZM .image-dqm {
+.image-dqm {
   margin-bottom: 2.4rem;
   width: 33.9rem;
   height: 33rem;
@@ -184,12 +184,12 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-km7q-LLs .gallery-card-5ZM .title-description-BMV {
+.title-description-BMV {
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-km7q-LLs .gallery-card-5ZM .title-description-BMV .project-title-vps {
+.project-title-vps {
   margin-bottom: 0.8rem;
   font-size: 2rem;
   font-weight: 700;
@@ -199,7 +199,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-km7q-LLs .gallery-card-5ZM .title-description-BMV .ui-art-drection-rTd {
+.ui-art-drection-rTd {
   font-size: 1.7rem;
   font-weight: 400;
   line-height: 1.5882352941;
@@ -208,13 +208,13 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-km7q-LLs .component-11-yo9 {
+.component-11-yo9 {
   width: 100%;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-km7q-LLs .component-11-yo9 .image-YLT {
+.image-YLT {
   margin-bottom: 2.4rem;
   width: 33.9rem;
   height: 33rem;
@@ -222,31 +222,31 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-km7q-LLs .component-11-yo9 .title-description-Uju {
+.title-description-Uju {
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-km7q-LLs .component-11-yo9 .title-description-Uju .project-title-e8b {
+.project-title-e8b {
   margin-bottom: 0.8rem;
   font-size: 2rem;
   font-weight: 600;
   line-height: 1.5;
   color: #2d2d2d;
-  font-family: Epilogue, 'Source Sans Pro';
+  font-family: Roboto Condensed, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-km7q-LLs .component-11-yo9 .title-description-Uju .ui-art-drection-aY3 {
+.ui-art-drection-aY3 {
   font-size: 1.7rem;
   font-weight: 400;
   line-height: 1.5882352941;
   color: #2d2d2d;
-  font-family: Epilogue, 'Source Sans Pro';
+  font-family: Roboto Condensed, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-qheb-7Xy {
+.auto-group-qheb-7Xy {
   width: 33.9rem;
   height: 100%;
   align-items: center;
@@ -254,14 +254,14 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-qheb-7Xy .component-9-4TD {
+.component-9-4TD {
   margin-bottom: 2.4rem;
   width: 100%;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-qheb-7Xy .component-9-4TD .image-R2s {
+.image-R2s {
   margin-bottom: 2.4rem;
   width: 33.9rem;
   height: 33rem;
@@ -269,12 +269,12 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-qheb-7Xy .component-9-4TD .title-description-AFM {
+.title-description-AFM {
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-qheb-7Xy .component-9-4TD .title-description-AFM .project-title-j3Z {
+.project-title-j3Z {
   margin-bottom: 0.8rem;
   font-size: 2rem;
   font-weight: 700;
@@ -284,22 +284,22 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-qheb-7Xy .component-9-4TD .title-description-AFM .ui-art-drection-fhu {
+.ui-art-drection-fhu {
   font-size: 1.7rem;
   font-weight: 400;
   line-height: 1.5882352941;
   color: #2d2d2d;
-  font-family: Epilogue, 'Source Sans Pro';
+  font-family: Roboto Condensed, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-qheb-7Xy .component-12-brT {
+.component-12-brT {
   width: 100%;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-qheb-7Xy .component-12-brT .image-mF9 {
+.image-mF9 {
   margin-bottom: 2.4rem;
   width: 33.9rem;
   height: 33rem;
@@ -307,31 +307,31 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-qheb-7Xy .component-12-brT .title-description-iAP {
+.title-description-iAP {
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-qheb-7Xy .component-12-brT .title-description-iAP .project-title-5Wj {
+.project-title-5Wj {
   margin-bottom: 0.8rem;
   font-size: 2rem;
   font-weight: 600;
   line-height: 1.5;
   color: #2d2d2d;
-  font-family: Epilogue, 'Source Sans Pro';
+  font-family: Roboto Condensed, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-qheb-7Xy .component-12-brT .title-description-iAP .ui-art-drection-RKh {
+.ui-art-drection-RKh {
   font-size: 1.7rem;
   font-weight: 400;
   line-height: 1.5882352941;
   color: #2d2d2d;
-  font-family: Epilogue, 'Source Sans Pro';
+  font-family: Roboto Condensed, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-hez9-ksm {
+.auto-group-hez9-ksm {
   width: 33.9rem;
   height: 100%;
   align-items: center;
@@ -339,14 +339,14 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-hez9-ksm .component-10-i3u {
+.component-10-i3u {
   margin-bottom: 2.4rem;
   width: 100%;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-hez9-ksm .component-10-i3u .image-fjq {
+.image-fjq {
   margin-bottom: 2.4rem;
   width: 33.9rem;
   height: 33rem;
@@ -354,37 +354,37 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-hez9-ksm .component-10-i3u .title-description-1Yo {
+.title-description-1Yo {
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-hez9-ksm .component-10-i3u .title-description-1Yo .project-title-mns {
+.project-title-mns {
   margin-bottom: 0.8rem;
   font-size: 2rem;
   font-weight: 600;
   line-height: 1.5;
   color: #2d2d2d;
-  font-family: Epilogue, 'Source Sans Pro';
+  font-family: Roboto Condensed, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-hez9-ksm .component-10-i3u .title-description-1Yo .ui-art-drection-6aF {
+.ui-art-drection-6aF {
   font-size: 1.7rem;
   font-weight: 400;
   line-height: 1.5882352941;
   color: #2d2d2d;
-  font-family: Epilogue, 'Source Sans Pro';
+  font-family: Roboto Condensed, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-hez9-ksm .component-13-2yh {
+.component-13-2yh {
   width: 100%;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-hez9-ksm .component-13-2yh .image-oDm {
+.image-oDm {
   margin-bottom: 2.4rem;
   width: 33.9rem;
   height: 33rem;
@@ -392,31 +392,31 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-hez9-ksm .component-13-2yh .title-description-XfZ {
+.title-description-XfZ {
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-hez9-ksm .component-13-2yh .title-description-XfZ .project-title-JAX {
+.project-title-JAX {
   margin-bottom: 0.8rem;
   font-size: 2rem;
   font-weight: 600;
   line-height: 1.5;
   color: #2d2d2d;
-  font-family: Epilogue, 'Source Sans Pro';
+  font-family: Roboto Condensed, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
 }
-.work-HZd .gallery-section-AYs .cards-section-beB .auto-group-hez9-ksm .component-13-2yh .title-description-XfZ .ui-art-drection-3P1 {
+.ui-art-drection-3P1 {
   font-size: 1.7rem;
   font-weight: 400;
   line-height: 1.5882352941;
   color: #2d2d2d;
-  font-family: Epilogue, 'Source Sans Pro';
+  font-family: Roboto Condensed, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
 }
-.work-HZd .contact-section-NAP {
+.contact-section-NAP {
   margin: 0rem 4.2rem 0rem 3.639rem;
   box-sizing: border-box;
   padding: 4.2rem 2.4rem 2.9rem 2.4rem;
@@ -426,7 +426,7 @@ body {
   background-color: #ffffff;
   flex-shrink: 0;
 }
-.work-HZd .contact-section-NAP .lets-work-together-GWf {
+.lets-work-together-GWf {
   margin-bottom: 2.4rem;
   font-size: 3.2rem;
   font-weight: 700;
@@ -436,20 +436,20 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.work-HZd .contact-section-NAP .contact-section-content-Cv7 {
+.contact-section-content-Cv7 {
   width: 100%;
   height: 23.2rem;
   display: flex;
   align-items: flex-start;
   flex-shrink: 0;
 }
-.work-HZd .contact-section-NAP .contact-section-content-Cv7 .contact-info-ZEs {
+.contact-info-ZEs {
   margin-right: 14.1rem;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.work-HZd .contact-section-NAP .contact-section-content-Cv7 .contact-info-ZEs .this-is-a-template-figma-file-turned-into-code-using-anima-learn-more-at-animaappcom-this-is-a-template-figma-file-turned-into-code-using-anima-learn-more-at-animaappcom-iNf {
+.this-is-a-template-figma-file-turned-into-code-using-anima-learn-more-at-animaappcom-this-is-a-template-figma-file-turned-into-code-using-anima-learn-more-at-animaappcom-iNf {
   margin-bottom: 4.2rem;
   max-width: 44.3rem;
   font-size: 1.7rem;
@@ -459,14 +459,14 @@ body {
   font-family: Roboto Condensed, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.work-HZd .contact-section-NAP .contact-section-content-Cv7 .contact-info-ZEs .social-links-YMh {
+.social-links-YMh {
   box-sizing: border-box;
   padding: 0.3rem 0.299rem 0.3rem 0.45rem;
   display: flex;
   align-items: center;
   flex-shrink: 0;
 }
-.work-HZd .contact-section-NAP .contact-section-content-Cv7 .contact-info-ZEs .social-links-YMh .discord-GHh {
+.discord-GHh {
   margin: 0.15rem 3.506rem 0rem 0rem;
   width: 2.4938rem;
   height: 2.85rem;
@@ -474,7 +474,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.work-HZd .contact-section-NAP .contact-section-content-Cv7 .contact-info-ZEs .social-links-YMh .facebook-apB {
+.facebook-apB {
   margin-right: 3.15rem;
   width: 2.7rem;
   height: 2.7rem;
@@ -482,7 +482,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.work-HZd .contact-section-NAP .contact-section-content-Cv7 .contact-info-ZEs .social-links-YMh .dribbble-vd9 {
+.dribbble-vd9 {
   margin-right: 3.1503rem;
   width: 3rem;
   height: 3rem;
@@ -490,7 +490,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.work-HZd .contact-section-NAP .contact-section-content-Cv7 .contact-info-ZEs .social-links-YMh .nstagram-GBD {
+.nstagram-GBD {
   margin: 0.007rem 3.149rem 0rem 0rem;
   width: 2.7012rem;
   height: 2.7054rem;
@@ -498,7 +498,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.work-HZd .contact-section-NAP .contact-section-content-Cv7 .contact-info-ZEs .social-links-YMh .behance-PWj {
+.behance-PWj {
   margin-bottom: 0.0002rem;
   width: 3.0013rem;
   height: 1.8806rem;
@@ -506,19 +506,19 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.work-HZd .contact-section-NAP .contact-section-content-Cv7 .contact-form-KvB {
+.contact-form-KvB {
   width: 44.2rem;
   height: 100%;
   flex-shrink: 0;
 }
-.work-HZd .contact-section-NAP .contact-section-content-Cv7 .contact-form-KvB .input-fields-tCb {
+.input-fields-tCb {
   margin-bottom: 2.4rem;
   width: 100%;
   align-items: center;
   display: flex;
   flex-direction: column;
 }
-.work-HZd .contact-section-NAP .contact-section-content-Cv7 .contact-form-KvB .input-fields-tCb .input-field-qtX {
+.input-field-qtX {
   margin-bottom: 1.2rem;
   box-sizing: border-box;
   padding: 1.6rem 2.4rem;
@@ -534,7 +534,7 @@ body {
   background-color: #f3f3f3;
   flex-shrink: 0;
 }
-.work-HZd .contact-section-NAP .contact-section-content-Cv7 .contact-form-KvB .input-fields-tCb .input-field-LKV {
+.input-field-LKV {
   box-sizing: border-box;
   padding: 1.6rem 2.4rem;
   width: 100%;
@@ -549,7 +549,7 @@ body {
   background-color: #f3f3f3;
   flex-shrink: 0;
 }
-.work-HZd .contact-section-NAP .contact-section-content-Cv7 .contact-form-KvB .button-eLB {
+.button-eLB {
   width: 18.5rem;
   height: 7.8rem;
   display: flex;

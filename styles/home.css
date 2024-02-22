@@ -45,24 +45,15 @@ body {
   flex-shrink: 0;
 }
 .auto-group-gztp-P8P {
-  margin:.1rem 23.6rem 0rem 2rem;
+  margin: auto;
   display: flex;
   font-size: 4rem;
   font-weight: 700;
-  line-height: 0.8859375;
   color: #2d2d2d;
-  font-family: Roboto Condensed, 'Source Sans Pro';
   white-space: nowrap;
-  flex-shrink: 0;
 }
-.frame-361-Cbd {
-  margin-bottom: 0.5rem;
-  display: flex;
-  column-gap: 5rem;
-  align-items: center;
-  flex-shrink: 0;
-}
-.home-jbZ {
+
+#home {
   display: flex;
   font-size: 3.2rem;
   font-weight: 400;
@@ -99,27 +90,26 @@ body {
     width: 100%;
     height: 100%;
     overflow-x: hidden;
-}.home-ru9 {
+}
+#home-ru9 {
   box-sizing: border-box;
-  padding: 0.9rem 1rem 8.4rem 1rem;
+  padding: 0;
   width: 100%;
   overflow: hidden;
   position: relative;
   display: flex;
   flex-direction: column;
-  border: solid 0.1rem rgba(0, 0, 0, 0.200000003);
-  background-color: #ffffff;
 }
 .auto-group-gztp-P8P {
-  margin: 0rem 4.3rem 13.8rem 0rem;
-  width: calc(100% - 4.3rem);
+  margin: 0rem 4.3rem 10.8rem 0rem;
   display: flex;
   align-items: flex-start;
   flex-shrink: 0;
 }
-.portfolio-iAf {
-  margin: auto 4rem auto;
-  margin-right: auto;
+#portfolio {
+  margin-right: 11.3rem;
+  margin-left: 3.3rem;
+  gap: 11;
   display: flex;
   font-size: 3.2rem;
   font-weight: 700;
@@ -130,33 +120,14 @@ body {
   flex-shrink: 0;
 }
 
-.auto-group-gztp-P8P  {
-  margin:auto;
-  display: flex;
-  font-size: 4rem;
-  font-weight: 700;
-  line-height: 0.8859375;
-  color: #2d2d2d;
-  font-family: Roboto Condensed, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.frame-361-Cbd {
-  margin-bottom: 0.5rem;
+
+.frame-361-Cbd
+{
   display: flex;
   column-gap: 5rem;
-  align-items: center;
-  flex-shrink: 0;
-}
-.home-jbZ {
-  display: flex;
-  font-size: 3.2rem;
-  font-weight: 400;
-  line-height: 0.9966796637;
-  color: #0d478c;
-  font-family: Roboto Condensed, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  
 }
 .about-shm {
   display: flex;
@@ -228,21 +199,12 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.hi-i-am-patrick-rwirangira-full-stack-developer-SXu {
+.names {
   margin-bottom: 4rem;
   max-width: 47.9rem;
   font-size: 4.4rem;
   font-weight: 700;
   line-height: 1.3636363636;
-  color: #21243d;
-  font-family: Roboto Condensed, 'Source Sans Pro';
-  flex-shrink: 0;
-}
-.amet-minim-mollit-non-deserunt-ullamco-est-sit-aliqua-dolor-do-amet-sint-velit-officia-consequat-duis-enim-velit-mollit-exercitation-veniam-consequat-sunt-nostrud-amet-9hD {
-  max-width: 51.1rem;
-  font-size: 2.4rem;
-  font-weight: 400;
-  line-height: 1.1725;
   color: #21243d;
   font-family: Roboto Condensed, 'Source Sans Pro';
   flex-shrink: 0;
@@ -287,7 +249,7 @@ body {
 .group-2-Wpb{
   text-decoration: none;
 }
-.frame-2-BnK .group-2-Wpb {
+.group-2-Wpb {
   margin-right: 2.7rem;
   width: 20.8rem;
   height: 100%;
@@ -304,7 +266,7 @@ body {
   border-radius: 0.2rem;
   flex-shrink: 0;
 }
-.frame-2-BnK .group-3-oHu {
+.group-3-oHu {
   width: 20.8rem;
   height: 100%;
   font-size: 2rem;
@@ -358,7 +320,7 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.gallery-card-RCo .image-NNw {
+.image-NNw {
   margin-bottom: 2.4rem;
   width: 38.1333rem;
   height: 33rem;
@@ -366,7 +328,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.gallery-card-RCo .title-description-75d {
+.title-description-75d {
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
@@ -538,7 +500,7 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.this-is-a-template-figma-file-turned-into-code-using-anima-learn-more-at-animaappcom-this-is-a-template-figma-file-turned-into-code-using-anima-learn-more-at-animaappcom-QwD {
+.para {
   margin-bottom: 4.2rem;
   max-width: 50.4rem;
   font-size: 1.7rem;
@@ -560,14 +522,14 @@ body {
   height: 100%;
   flex-shrink: 0;
 }
-.contact-form-bko .input-fields-Mjy {
+.input-fields-Mjy {
   margin-bottom: 2.4rem;
   width: 100%;
   align-items: center;
   display: flex;
   flex-direction: column;
 }
-.contact-form-bko .input-fields-Mjy .input-field-hYw {
+#email {
   margin-bottom: 1.2rem;
   box-sizing: border-box;
   padding: 1.6rem 2.4rem;
@@ -583,7 +545,7 @@ body {
   background-color: #f3f3f3;
   flex-shrink: 0;
 }
-.contact-form-bko .input-fields-Mjy .input-field-moh {
+#name {
   box-sizing: border-box;
   padding: 1.6rem 2.4rem;
   width: 100%;
@@ -598,7 +560,7 @@ body {
   background-color: #f3f3f3;
   flex-shrink: 0;
 }
-.contact-form-bko .button-53h {
+.button-53h {
   width: 18.5rem;
   height: 7.8rem;
   display: flex;
@@ -686,7 +648,7 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.hi-i-am-patrick-rwirangira-full-stack-developer-SXu {
+#names {
   margin-bottom: 4rem;
   max-width: 47.9rem;
   font-size: 3rem;
@@ -696,7 +658,7 @@ body {
   font-family: Roboto Condensed, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.amet-minim-mollit-non-deserunt-ullamco-est-sit-aliqua-dolor-do-amet-sint-velit-officia-consequat-duis-enim-velit-mollit-exercitation-veniam-consequat-sunt-nostrud-amet-9hD {
+#description {
   max-width: 51.1rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -732,7 +694,7 @@ body {
 .group-2-Wpb{
   text-decoration: none;
 }
-.frame-2-BnK .group-2-Wpb {
+.group-2-Wpb {
   margin-right: 2.7rem;
   width: 20.8rem;
   height: 100%;
@@ -749,7 +711,7 @@ body {
   border-radius: 0.2rem;
   flex-shrink: 0;
 }
-.frame-2-BnK .group-3-oHu {
+.group-3-oHu {
   width: 20.8rem;
   height: 100%;
   font-size: 2rem;
@@ -803,7 +765,7 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.gallery-card-RCo .image-NNw {
+.image-NNw {
   margin-bottom: 2.4rem;
   width: 38.1333rem;
   height: 33rem;
@@ -811,7 +773,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.gallery-card-RCo .title-description-75d {
+.title-description-75d {
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
@@ -983,16 +945,6 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.this-is-a-template-figma-file-turned-into-code-using-anima-learn-more-at-animaappcom-this-is-a-template-figma-file-turned-into-code-using-anima-learn-more-at-animaappcom-QwD {
-  margin-bottom: 4.2rem;
-  max-width: 50.4rem;
-  font-size: 1.7rem;
-  font-weight: 400;
-  line-height: 1.5882352941;
-  color: #2d2d2d;
-  font-family: Roboto Condensed, 'Source Sans Pro';
-  flex-shrink: 0;
-}
 .social-links-g83 {
   width: 27.6rem;
   height: 3.6rem;
@@ -1005,45 +957,15 @@ body {
   height: 100%;
   flex-shrink: 0;
 }
-.contact-form-bko .input-fields-Mjy {
+.input-fields-Mjy {
   margin-bottom: 2.4rem;
   width: 100%;
   align-items: center;
   display: flex;
   flex-direction: column;
 }
-.contact-form-bko .input-fields-Mjy .input-field-hYw {
-  margin-bottom: 1.2rem;
-  box-sizing: border-box;
-  padding: 1.6rem 2.4rem;
-  width: 100%;
-  overflow: hidden;
-  position: relative;
-  font-size: 1.7rem;
-  font-weight: 400;
-  line-height: 1.5882352941;
-  color: #2d2d2d;
-  font-family: Roboto Condensed, 'Source Sans Pro';
-  white-space: nowrap;
-  background-color: #f3f3f3;
-  flex-shrink: 0;
-}
-.contact-form-bko .input-fields-Mjy .input-field-moh {
-  box-sizing: border-box;
-  padding: 1.6rem 2.4rem;
-  width: 100%;
-  overflow: hidden;
-  position: relative;
-  font-size: 1.7rem;
-  font-weight: 400;
-  line-height: 1.5882352941;
-  color: #2d2d2d;
-  font-family: Roboto Condensed, 'Source Sans Pro';
-  white-space: nowrap;
-  background-color: #f3f3f3;
-  flex-shrink: 0;
-}
-.contact-form-bko .button-53h {
+
+.button-53h {
   width: 18.5rem;
   height: 7.8rem;
   display: flex;
