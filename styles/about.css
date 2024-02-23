@@ -21,14 +21,13 @@ input {
 	border: none;
 }
 body {
-  width: 128rem;
+  width: 123rem;
 }.about-MnT {
   box-sizing: border-box;
   padding: 2.835rem 6.9rem 3.6rem 4.961rem;
-  width: 100%;
+  width: 123rem;
   display: flex;
   flex-direction: column;
-  border: solid 0.1rem rgba(0, 0, 0, 0.200000003);
   background-color: #ffffff;
 }
 .auto-group-egvp-uhV {
@@ -40,7 +39,7 @@ body {
   flex-shrink: 0;
 }
 .portfolio-kLj {
-  margin-right: 44.0388rem;
+  margin-right: 54.0388rem;
   display: flex;
   font-size: 4rem;
   font-weight: 700;
@@ -118,6 +117,17 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+#error
+{
+  color: red;
+  position:relative;
+  font-size: 2rem;
+  font-family: roboto condensed ,'source sans pro';
+  display: flex;
+  right: -62rem;
+
+}
+
 .frame-15-ues {
   margin: 0rem 0rem 9.758rem 3.039rem;
   width: 112.1rem;

@@ -9,6 +9,17 @@ html {
 a{
   text-decoration: none;
 }
+#error
+{
+  color: red;
+  position:relative;
+  font-size: 2rem;
+  font-family: roboto condensed ,'source sans pro';
+  display: flex;
+  right: -70rem;
+
+}
+
 nav a{
   list-style: none;
   font-size: 32px;

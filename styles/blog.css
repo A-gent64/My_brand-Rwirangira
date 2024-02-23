@@ -111,7 +111,7 @@ nav{
 }
 .blog {
   display: relative;
-  margin-top: 15rem;
+  margin-top: 10rem;
   margin-left:3.5rem ;
   font-size: 4.4rem;
   font-weight: 700;
@@ -140,6 +140,17 @@ frame {
   flex-shrink: 0;
   justify-content: center;
 }
+#error
+{
+  color: red;
+  position:relative;
+  font-size: 2rem;
+  font-family: roboto condensed ,'source sans pro';
+  display: flex;
+  right: -70rem;
+
+}
+
 #cards {
   
   margin-bottom: auto;

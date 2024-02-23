@@ -120,7 +120,16 @@ body {
   flex-shrink: 0;
 }
 
+#error
+{
+  color: red;
+  position:relative;
+  font-size: 2rem;
+  font-family: roboto condensed ,'source sans pro';
+  display: flex;
+  right: -70rem;
 
+}
 .frame-361-Cbd
 {
   display: flex;

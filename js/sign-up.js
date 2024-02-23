@@ -15,8 +15,6 @@ function valid() {
     if (email === "" || !email.includes('@')) { 
         // Changed innerHTML assignment
         meme.innerHTML = 'Please enter a valid e-mail address.';
-        // Removed email.focus(), focus is not available for a string
-        // email.focus(); 
         return false; 
     } 
 
